@@ -1,0 +1,8 @@
+literature-search-arxiv API Usage & License Notification
+Timestamp: 2026-11-23T23:08:20+02:00
+Workspace: The-Conciseness-Framework (Pillars 1-5)
+
+Notice to User & Authors:
+This repository uses the arXiv API via the `literature-search-arxiv` workflow to retrieve and verify primary bibliographic metadata and abstracts for peer-reviewed literature positioning across Pillars 1-5.
+- Review the arXiv API Terms of Use at: https://info.arxiv.org/help/api/index.html
+- Always verify the specific copyright and license declaration (e.g., CC BY, CC BY-NC-SA, or arXiv non-exclusive distribution license) of each individual paper before redistributing third-party full-text content.

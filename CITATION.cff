@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "The Conciseness Framework: Deductively Closed Epistemology, Modal Ontology, Finite Infinity, Actualization Calculus, Computational Knowledge Theory, and Embodied Consciousness (Pillars 1–5)"
+message: "If you use these monographs, mathematical proofs, or numerical validation scripts in academic research, please cite this repository as below."
+type: software
+authors:
+  - family-names: Noureldin
+    given-names: Mohamed Gamal Eldin Abdelaziz
+    email: mz.gamal@gmail.com
+    orcid: "https://orcid.org/0009-0006-3991-1153"
+    affiliation: "Independent Researcher"
+repository-code: "https://github.com/mzgamal-space/The-Conciseness-Framework"
+url: "https://github.com/mzgamal-space/The-Conciseness-Framework"
+abstract: >-
+  The Conciseness Framework constructs a deductively closed, zero-forward-reference
+  scientific and philosophical unification spanning foundational epistemology and
+  modal ontology (Pillar 1: The Foundation of Knowledge Theory, v2.10), domain
+  epistemology and ontological curvature (Pillar 2: The Finite Infinity Framework,
+  v2.0), universal dynamical selection calculus (Pillar 3: The Actualization Theory,
+  v6.0), computational complexity and unsimulable reality (Pillar 4: The Computational
+  Knowledge Theory, v4.0), and embodied cognition and knowledge-density acceleration
+  (Pillar 5: Consciousness Operations as Prime Reductions, v4.0). Each pillar is
+  accompanied by standalone mathematical verification scripts and publication-grade
+  figures validating all analytical claims and numerical simulations.
+keywords:
+  - epistemology
+  - modal-logic
+  - philosophy-of-science
+  - finite-infinity
+  - actualization-theory
+  - computational-complexity
+  - algorithmic-information-theory
+  - dynamical-systems
+  - consciousness
+  - knowledge-density
+license: CC-BY-4.0
+version: "2.3.0"
+date-released: "2026-11-23"

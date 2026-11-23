@@ -1,0 +1,2606 @@
+{
+  "workflow": "literature-search-arxiv",
+  "api_terms_url": "https://info.arxiv.org/help/api/index.html",
+  "pillars": {
+    "Pillar_1": {
+      "count": 5,
+      "papers": [
+        {
+          "id": "1307.6167v3",
+          "abs_url": "https://arxiv.org/abs/1307.6167v3",
+          "pdf_url": "https://arxiv.org/pdf/1307.6167v3",
+          "title": "The Universe as a Process of Unique Events",
+          "authors": [
+            "Marina Cortês",
+            "Lee Smolin"
+          ],
+          "published": "2013-07-23T17:29:39Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "2309.08694v3",
+          "abs_url": "https://arxiv.org/abs/2309.08694v3",
+          "pdf_url": "https://arxiv.org/pdf/2309.08694v3",
+          "title": "Higher Dimensional Energetic Causal Sets",
+          "authors": [
+            "Vasco Gil Gomes",
+            "Marina Cortês",
+            "Andrew R. Liddle"
+          ],
+          "published": "2023-09-15T18:36:59Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "2502.06947v1",
+          "abs_url": "https://arxiv.org/abs/2502.06947v1",
+          "pdf_url": "https://arxiv.org/pdf/2502.06947v1",
+          "title": "Quantum Spacetime Leaps: Higher Dimensional Energetic Causal Sets",
+          "authors": [
+            "Vasco Gil Gomes"
+          ],
+          "published": "2025-02-10T19:00:02Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "2607.13096v1",
+          "abs_url": "https://arxiv.org/abs/2607.13096v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.13096v1",
+          "title": "Events as Spacetime Anchors: Local Irreversibility at the Interface of Quantum Field Theory and Relativity",
+          "authors": [
+            "Shuo Zhang"
+          ],
+          "published": "2026-07-14T04:41:25Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "2608.18148v1",
+          "abs_url": "https://arxiv.org/abs/2608.18148v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.18148v1",
+          "title": "Flux-form spatiotemporal neural operators for coarse-grained dynamics of multiscale PDEs",
+          "authors": [
+            "Junfeng Chen"
+          ],
+          "published": "2026-08-11T00:55:16Z",
+          "primary_category": "nlin.CD"
+        }
+      ]
+    },
+    "Pillar_2": {
+      "count": 40,
+      "papers": [
+        {
+          "id": "0704.0646v2",
+          "abs_url": "https://arxiv.org/abs/0704.0646v2",
+          "pdf_url": "https://arxiv.org/pdf/0704.0646v2",
+          "title": "The Mathematical Universe",
+          "authors": [
+            "Max Tegmark"
+          ],
+          "published": "2007-04-05T14:47:46Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "0805.4250v1",
+          "abs_url": "https://arxiv.org/abs/0805.4250v1",
+          "pdf_url": "https://arxiv.org/pdf/0805.4250v1",
+          "title": "Covariant versions of Margolus-Levitin Theorem",
+          "authors": [
+            "Qiaojun Cao",
+            "Yi-Xin Chen",
+            "Jian-Long Li"
+          ],
+          "published": "2008-05-28T02:53:02Z",
+          "primary_category": "hep-th"
+        },
+        {
+          "id": "1001.4590v1",
+          "abs_url": "https://arxiv.org/abs/1001.4590v1",
+          "pdf_url": "https://arxiv.org/pdf/1001.4590v1",
+          "title": "A Note on Infinities in Eternal Inflation",
+          "authors": [
+            "George F. R. Ellis",
+            "William R. Stoeger"
+          ],
+          "published": "2010-01-26T03:53:19Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "1106.0702v1",
+          "abs_url": "https://arxiv.org/abs/1106.0702v1",
+          "pdf_url": "https://arxiv.org/pdf/1106.0702v1",
+          "title": "Less is Different: Emergence and Reduction Reconciled",
+          "authors": [
+            "Jeremy Butterfield"
+          ],
+          "published": "2011-06-03T16:22:33Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "1106.0704v1",
+          "abs_url": "https://arxiv.org/abs/1106.0704v1",
+          "pdf_url": "https://arxiv.org/pdf/1106.0704v1",
+          "title": "Emergence, Reduction and Supervenience: a Varied Landscape",
+          "authors": [
+            "Jeremy Butterfield"
+          ],
+          "published": "2011-06-03T16:26:55Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "1306.2726v1",
+          "abs_url": "https://arxiv.org/abs/1306.2726v1",
+          "pdf_url": "https://arxiv.org/pdf/1306.2726v1",
+          "title": "No categorial support for radical ontic structural realism",
+          "authors": [
+            "Vincent Lam",
+            "Christian Wuthrich"
+          ],
+          "published": "2013-06-12T07:22:08Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "1309.0144v1",
+          "abs_url": "https://arxiv.org/abs/1309.0144v1",
+          "pdf_url": "https://arxiv.org/pdf/1309.0144v1",
+          "title": "The collapse of supertasks",
+          "authors": [
+            "Gustavo E. Romero"
+          ],
+          "published": "2013-08-31T18:51:52Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "1404.1802v2",
+          "abs_url": "https://arxiv.org/abs/1404.1802v2",
+          "pdf_url": "https://arxiv.org/pdf/1404.1802v2",
+          "title": "Optimizing entropy bounds for macroscopic systems",
+          "authors": [
+            "Jacob D. Bekenstein"
+          ],
+          "published": "2014-04-07T14:45:23Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "1406.4354v1",
+          "abs_url": "https://arxiv.org/abs/1406.4354v1",
+          "pdf_url": "https://arxiv.org/pdf/1406.4354v1",
+          "title": "Reduction, Emergence and Renormalization",
+          "authors": [
+            "Jeremy Butterfield"
+          ],
+          "published": "2014-06-17T13:04:09Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "1506.02206v1",
+          "abs_url": "https://arxiv.org/abs/1506.02206v1",
+          "pdf_url": "https://arxiv.org/pdf/1506.02206v1",
+          "title": "Predicativity, the Russell-Myhill Paradox, and Church's Intensional Logic",
+          "authors": [
+            "Sean Walsh"
+          ],
+          "published": "2015-06-07T01:49:43Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "1802.07184v1",
+          "abs_url": "https://arxiv.org/abs/1802.07184v1",
+          "pdf_url": "https://arxiv.org/pdf/1802.07184v1",
+          "title": "Comment on the Bekenstein bound",
+          "authors": [
+            "Roberto Longo",
+            "Feng Xu"
+          ],
+          "published": "2018-02-20T16:23:22Z",
+          "primary_category": "math-ph"
+        },
+        {
+          "id": "1803.06824v3",
+          "abs_url": "https://arxiv.org/abs/1803.06824v3",
+          "pdf_url": "https://arxiv.org/pdf/1803.06824v3",
+          "title": "Indeterminism in Physics, Classical Chaos and Bohmian Mechanics. Are Real Numbers Really Real?",
+          "authors": [
+            "Nicolas Gisin"
+          ],
+          "published": "2018-03-19T07:50:38Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "1902.09570v1",
+          "abs_url": "https://arxiv.org/abs/1902.09570v1",
+          "pdf_url": "https://arxiv.org/pdf/1902.09570v1",
+          "title": "Infinities within Finitely Supported Structures",
+          "authors": [
+            "Andrei Alexandru",
+            "Gabriel Ciobanu"
+          ],
+          "published": "2019-02-25T19:09:47Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "1909.03697v2",
+          "abs_url": "https://arxiv.org/abs/1909.03697v2",
+          "pdf_url": "https://arxiv.org/pdf/1909.03697v2",
+          "title": "Physics without Determinism: Alternative Interpretations of Classical Physics",
+          "authors": [
+            "Flavio Del Santo",
+            "Nicolas Gisin"
+          ],
+          "published": "2019-09-09T08:34:56Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "1909.04514v1",
+          "abs_url": "https://arxiv.org/abs/1909.04514v1",
+          "pdf_url": "https://arxiv.org/pdf/1909.04514v1",
+          "title": "Real Numbers are the Hidden Variables of Classical Mechanics",
+          "authors": [
+            "Nicolas Gisin"
+          ],
+          "published": "2019-09-10T14:20:05Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "1911.04772v3",
+          "abs_url": "https://arxiv.org/abs/1911.04772v3",
+          "pdf_url": "https://arxiv.org/pdf/1911.04772v3",
+          "title": "Emergence of time",
+          "authors": [
+            "George F R Ellis",
+            "Barbara Drossel"
+          ],
+          "published": "2019-11-12T10:22:56Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "2002.01653v1",
+          "abs_url": "https://arxiv.org/abs/2002.01653v1",
+          "pdf_url": "https://arxiv.org/pdf/2002.01653v1",
+          "title": "Classical and intuitionistic mathematical languages shape our understanding of time in physics",
+          "authors": [
+            "Nicolas Gisin"
+          ],
+          "published": "2020-02-04T18:00:52Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "2003.07411v3",
+          "abs_url": "https://arxiv.org/abs/2003.07411v3",
+          "pdf_url": "https://arxiv.org/pdf/2003.07411v3",
+          "title": "Indeterminism, causality and information: Has physics ever been deterministic?",
+          "authors": [
+            "Flavio Del Santo"
+          ],
+          "published": "2020-03-16T19:05:31Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "2004.13591v9",
+          "abs_url": "https://arxiv.org/abs/2004.13591v9",
+          "pdf_url": "https://arxiv.org/pdf/2004.13591v9",
+          "title": "Emergence in Solid State Physics and Biology",
+          "authors": [
+            "George F R Ellis"
+          ],
+          "published": "2020-04-28T15:25:23Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "2006.00972v5",
+          "abs_url": "https://arxiv.org/abs/2006.00972v5",
+          "pdf_url": "https://arxiv.org/pdf/2006.00972v5",
+          "title": "The Causal Closure of Physics in Real World Contexts",
+          "authors": [
+            "George F R Ellis"
+          ],
+          "published": "2020-06-01T14:32:32Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "2011.02348v1",
+          "abs_url": "https://arxiv.org/abs/2011.02348v1",
+          "pdf_url": "https://arxiv.org/pdf/2011.02348v1",
+          "title": "Indeterminism in Physics and Intuitionistic Mathematics",
+          "authors": [
+            "Nicolas Gisin"
+          ],
+          "published": "2020-11-04T15:24:14Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "2112.08531v1",
+          "abs_url": "https://arxiv.org/abs/2112.08531v1",
+          "pdf_url": "https://arxiv.org/pdf/2112.08531v1",
+          "title": "Four Attitudes Towards Singularities in the Search for a Theory of Quantum Gravity",
+          "authors": [
+            "Karen Crowther",
+            "Sebastian De Haro"
+          ],
+          "published": "2021-12-15T23:51:12Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "2201.09316v1",
+          "abs_url": "https://arxiv.org/abs/2201.09316v1",
+          "pdf_url": "https://arxiv.org/pdf/2201.09316v1",
+          "title": "Operational Theories as Structural Realism",
+          "authors": [
+            "Emily Adlam"
+          ],
+          "published": "2022-01-23T17:00:58Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "2301.10063v3",
+          "abs_url": "https://arxiv.org/abs/2301.10063v3",
+          "pdf_url": "https://arxiv.org/pdf/2301.10063v3",
+          "title": "Margolus-Levitin quantum speed limit for an arbitrary fidelity",
+          "authors": [
+            "Niklas Hörnedal",
+            "Ole Sönnerborn"
+          ],
+          "published": "2023-01-24T15:10:02Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "2305.10101v3",
+          "abs_url": "https://arxiv.org/abs/2305.10101v3",
+          "pdf_url": "https://arxiv.org/pdf/2305.10101v3",
+          "title": "$\\boldsymbol{α_{>}(ε) = α_{<}(ε)}$ For The Margolus-Levitin Quantum Speed Limit Bound",
+          "authors": [
+            "H. F. Chau"
+          ],
+          "published": "2023-05-17T10:07:31Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "2307.16854v2",
+          "abs_url": "https://arxiv.org/abs/2307.16854v2",
+          "pdf_url": "https://arxiv.org/pdf/2307.16854v2",
+          "title": "Note on the Margolus-Levitin quantum speed limit for arbitrary fidelity",
+          "authors": [
+            "Krzysztof Andrzejewski",
+            "Katarzyna Bolonek-Lasoń",
+            "Piotr Kosiński"
+          ],
+          "published": "2023-07-31T17:13:52Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "2409.05903v2",
+          "abs_url": "https://arxiv.org/abs/2409.05903v2",
+          "pdf_url": "https://arxiv.org/pdf/2409.05903v2",
+          "title": "Reflections on Russell's antinomy",
+          "authors": [
+            "Paola Cattabriga"
+          ],
+          "published": "2024-09-06T07:52:02Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "2409.10601v3",
+          "abs_url": "https://arxiv.org/abs/2409.10601v3",
+          "pdf_url": "https://arxiv.org/pdf/2409.10601v3",
+          "title": "Which features of quantum physics are not fundamentally quantum but are due to indeterminism?",
+          "authors": [
+            "Flavio Del Santo",
+            "Nicolas Gisin"
+          ],
+          "published": "2024-09-16T18:00:01Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "2410.10541v1",
+          "abs_url": "https://arxiv.org/abs/2410.10541v1",
+          "pdf_url": "https://arxiv.org/pdf/2410.10541v1",
+          "title": "Some singular spacetimes and their possible alternatives",
+          "authors": [
+            "Andrew DeBenedictis"
+          ],
+          "published": "2024-10-14T14:20:55Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "2505.14698v1",
+          "abs_url": "https://arxiv.org/abs/2505.14698v1",
+          "pdf_url": "https://arxiv.org/pdf/2505.14698v1",
+          "title": "On the Possibilities of Hypercomputing Supertasks",
+          "authors": [
+            "Vincent C. Müller"
+          ],
+          "published": "2025-05-12T09:18:03Z",
+          "primary_category": "cs.LO"
+        },
+        {
+          "id": "2507.20313v1",
+          "abs_url": "https://arxiv.org/abs/2507.20313v1",
+          "pdf_url": "https://arxiv.org/pdf/2507.20313v1",
+          "title": "Relational Observables, Quiddities, and Structural Realism",
+          "authors": [
+            "Emily Adlam"
+          ],
+          "published": "2025-07-27T15:10:30Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "2509.22528v1",
+          "abs_url": "https://arxiv.org/abs/2509.22528v1",
+          "pdf_url": "https://arxiv.org/pdf/2509.22528v1",
+          "title": "Naturalistic intuitionism for physics",
+          "authors": [
+            "Bruno Bentzen",
+            "Flavio Del Santo",
+            "Nicolas Gisin"
+          ],
+          "published": "2025-09-26T16:06:44Z",
+          "primary_category": "physics.hist-ph"
+        },
+        {
+          "id": "2511.23237v2",
+          "abs_url": "https://arxiv.org/abs/2511.23237v2",
+          "pdf_url": "https://arxiv.org/pdf/2511.23237v2",
+          "title": "Systems that saturate the Margolus-Levitin quantum speed limit",
+          "authors": [
+            "Ole Sönnerborn"
+          ],
+          "published": "2025-11-28T14:45:33Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "2601.00811v2",
+          "abs_url": "https://arxiv.org/abs/2601.00811v2",
+          "pdf_url": "https://arxiv.org/pdf/2601.00811v2",
+          "title": "A Naive Encoding of Russell's Paradox in Type Theory",
+          "authors": [
+            "Zhuoyuan Qu"
+          ],
+          "published": "2025-12-22T05:27:34Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "gr-qc/0009019v2",
+          "abs_url": "https://arxiv.org/abs/gr-qc/0009019v2",
+          "pdf_url": "https://arxiv.org/pdf/gr-qc/0009019v2",
+          "title": "The Limits of Information",
+          "authors": [
+            "Jacob D. Bekenstein"
+          ],
+          "published": "2000-09-07T05:20:08Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "gr-qc/0605049v5",
+          "abs_url": "https://arxiv.org/abs/gr-qc/0605049v5",
+          "pdf_url": "https://arxiv.org/pdf/gr-qc/0605049v5",
+          "title": "Physics in the Real Universe: Time and Spacetime",
+          "authors": [
+            "George F. R. Ellis"
+          ],
+          "published": "2006-05-09T12:46:25Z",
+          "primary_category": "gr-qc"
+        },
+        {
+          "id": "math-ph/0307044v3",
+          "abs_url": "https://arxiv.org/abs/math-ph/0307044v3",
+          "pdf_url": "https://arxiv.org/pdf/math-ph/0307044v3",
+          "title": "Mathematics of the Quantum Zeno Effect",
+          "authors": [
+            "Andreas U. Schmidt"
+          ],
+          "published": "2003-07-21T12:16:29Z",
+          "primary_category": "math-ph"
+        },
+        {
+          "id": "math/0212049v1",
+          "abs_url": "https://arxiv.org/abs/math/0212049v1",
+          "pdf_url": "https://arxiv.org/pdf/math/0212049v1",
+          "title": "Supertask Computation",
+          "authors": [
+            "Joel David Hamkins"
+          ],
+          "published": "2002-12-03T19:27:36Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "quant-ph/0404042v1",
+          "abs_url": "https://arxiv.org/abs/quant-ph/0404042v1",
+          "pdf_url": "https://arxiv.org/pdf/quant-ph/0404042v1",
+          "title": "How does the entropy/information bound work ?",
+          "authors": [
+            "Jacob D. Bekenstein"
+          ],
+          "published": "2004-04-07T09:20:02Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "quant-ph/0603076v4",
+          "abs_url": "https://arxiv.org/abs/quant-ph/0603076v4",
+          "pdf_url": "https://arxiv.org/pdf/quant-ph/0603076v4",
+          "title": "A generalization of Margolus-Levitin bound",
+          "authors": [
+            "Bartosz Zielinski",
+            "Magdalena Zych"
+          ],
+          "published": "2006-03-09T12:49:11Z",
+          "primary_category": "quant-ph"
+        }
+      ]
+    },
+    "Pillar_3": {
+      "count": 50,
+      "papers": [
+        {
+          "id": "0710.2497v2",
+          "abs_url": "https://arxiv.org/abs/0710.2497v2",
+          "pdf_url": "https://arxiv.org/pdf/0710.2497v2",
+          "title": "A Categorical Construction of Ultrafilters",
+          "authors": [
+            "Daniel Litt",
+            "Zachary Abel",
+            "Scott D. Kominers"
+          ],
+          "published": "2007-10-12T16:02:40Z",
+          "primary_category": "math.CT"
+        },
+        {
+          "id": "0801.2727v1",
+          "abs_url": "https://arxiv.org/abs/0801.2727v1",
+          "pdf_url": "https://arxiv.org/pdf/0801.2727v1",
+          "title": "Dynamical randomness, information, and Landauer's principle",
+          "authors": [
+            "D. Andrieux",
+            "P. Gaspard"
+          ],
+          "published": "2008-01-17T17:23:48Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "0906.4986v2",
+          "abs_url": "https://arxiv.org/abs/0906.4986v2",
+          "pdf_url": "https://arxiv.org/pdf/0906.4986v2",
+          "title": "On the asymptotic behavior of the solutions to the replicator equation",
+          "authors": [
+            "Georgy P Karev",
+            "Artem S Novozhilov",
+            "Faina S Berezovskaya"
+          ],
+          "published": "2009-06-26T17:49:22Z",
+          "primary_category": "q-bio.PE"
+        },
+        {
+          "id": "1108.4055v2",
+          "abs_url": "https://arxiv.org/abs/1108.4055v2",
+          "pdf_url": "https://arxiv.org/pdf/1108.4055v2",
+          "title": "Thermodynamics and Geometry of Reversible and Irreversible Markov Processes",
+          "authors": [
+            "Hao Ge",
+            "Woo H. Kim",
+            "Hong Qian"
+          ],
+          "published": "2011-08-19T21:48:45Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "1108.5920v1",
+          "abs_url": "https://arxiv.org/abs/1108.5920v1",
+          "pdf_url": "https://arxiv.org/pdf/1108.5920v1",
+          "title": "On a converse to Banach's Fixed Point Theorem",
+          "authors": [
+            "Márton Elekes"
+          ],
+          "published": "2011-08-30T11:19:28Z",
+          "primary_category": "math.CA"
+        },
+        {
+          "id": "1206.6319v1",
+          "abs_url": "https://arxiv.org/abs/1206.6319v1",
+          "pdf_url": "https://arxiv.org/pdf/1206.6319v1",
+          "title": "The Conley Attractor of an Iterated Function System",
+          "authors": [
+            "Michael Barnsley",
+            "Andrew Vince"
+          ],
+          "published": "2012-06-27T16:02:34Z",
+          "primary_category": "math.DS"
+        },
+        {
+          "id": "1403.4407v3",
+          "abs_url": "https://arxiv.org/abs/1403.4407v3",
+          "pdf_url": "https://arxiv.org/pdf/1403.4407v3",
+          "title": "A Note on Fixed Points in Justification Logics and the Surprise Test Paradox",
+          "authors": [
+            "Meghdad Ghari"
+          ],
+          "published": "2014-03-18T11:21:33Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "1503.08478v1",
+          "abs_url": "https://arxiv.org/abs/1503.08478v1",
+          "pdf_url": "https://arxiv.org/pdf/1503.08478v1",
+          "title": "Transversely Hessian foliations and information geometry",
+          "authors": [
+            "Michel Nguiffo Boyom",
+            "Robert A. Wolak"
+          ],
+          "published": "2015-03-29T18:53:38Z",
+          "primary_category": "math.DG"
+        },
+        {
+          "id": "1610.04702v2",
+          "abs_url": "https://arxiv.org/abs/1610.04702v2",
+          "pdf_url": "https://arxiv.org/pdf/1610.04702v2",
+          "title": "Optimal Distributed Stochastic Mirror Descent for Strongly Convex Optimization",
+          "authors": [
+            "Deming Yuan",
+            "Yiguang Hong",
+            "Daniel W. C. Ho",
+            "Guoping Jiang"
+          ],
+          "published": "2016-10-15T07:52:04Z",
+          "primary_category": "math.OC"
+        },
+        {
+          "id": "1702.07339v3",
+          "abs_url": "https://arxiv.org/abs/1702.07339v3",
+          "pdf_url": "https://arxiv.org/pdf/1702.07339v3",
+          "title": "A Converse to Banach's Fixed Point Theorem and its CLS Completeness",
+          "authors": [
+            "Constantinos Daskalakis",
+            "Christos Tzamos",
+            "Manolis Zampetakis"
+          ],
+          "published": "2017-02-23T18:52:31Z",
+          "primary_category": "cs.CC"
+        },
+        {
+          "id": "1703.07028v2",
+          "abs_url": "https://arxiv.org/abs/1703.07028v2",
+          "pdf_url": "https://arxiv.org/pdf/1703.07028v2",
+          "title": "Epistemic Modeling with Justifications",
+          "authors": [
+            "Sergei Artemov"
+          ],
+          "published": "2017-03-21T02:28:31Z",
+          "primary_category": "cs.LO"
+        },
+        {
+          "id": "1705.02029v1",
+          "abs_url": "https://arxiv.org/abs/1705.02029v1",
+          "pdf_url": "https://arxiv.org/pdf/1705.02029v1",
+          "title": "Adaptive Mirror Descent for Constrained Optimization",
+          "authors": [
+            "Anastasia Bayandina"
+          ],
+          "published": "2017-05-04T21:42:45Z",
+          "primary_category": "math.OC"
+        },
+        {
+          "id": "1708.03030v1",
+          "abs_url": "https://arxiv.org/abs/1708.03030v1",
+          "pdf_url": "https://arxiv.org/pdf/1708.03030v1",
+          "title": "Above and Beyond the Landauer Bound: Thermodynamics of Modularity",
+          "authors": [
+            "Alexander B. Boyd",
+            "Dibyendu Mandal",
+            "James P. Crutchfield"
+          ],
+          "published": "2017-08-09T22:57:19Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "1709.01316v1",
+          "abs_url": "https://arxiv.org/abs/1709.01316v1",
+          "pdf_url": "https://arxiv.org/pdf/1709.01316v1",
+          "title": "On the sharpness and the injective property of basic justification models",
+          "authors": [
+            "Vladimir N. Krupski"
+          ],
+          "published": "2017-09-05T09:57:52Z",
+          "primary_category": "cs.LO"
+        },
+        {
+          "id": "1710.09649v1",
+          "abs_url": "https://arxiv.org/abs/1710.09649v1",
+          "pdf_url": "https://arxiv.org/pdf/1710.09649v1",
+          "title": "Hopf bifurcation with additive noise",
+          "authors": [
+            "Thai Son Doan",
+            "Maximilian Engel",
+            "Jeroen S. W. Lamb",
+            "Martin Rasmussen"
+          ],
+          "published": "2017-10-26T11:41:22Z",
+          "primary_category": "math.DS"
+        },
+        {
+          "id": "1711.03450v1",
+          "abs_url": "https://arxiv.org/abs/1711.03450v1",
+          "pdf_url": "https://arxiv.org/pdf/1711.03450v1",
+          "title": "Maximum Caliber: a general variational principle for dynamical systems",
+          "authors": [
+            "Purushottam D. Dixit",
+            "Jason Wagoner",
+            "Corey Weistuch",
+            "Steve Pressé",
+            "Kingshuk Ghosh",
+            "Ken A. Dill"
+          ],
+          "published": "2017-11-09T16:18:28Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "1802.00079v1",
+          "abs_url": "https://arxiv.org/abs/1802.00079v1",
+          "pdf_url": "https://arxiv.org/pdf/1802.00079v1",
+          "title": "Generalizations of Banach and Kannan Fixed point theorems in b_{v}(s) metric spaces",
+          "authors": [
+            "Ibrahim Karahan"
+          ],
+          "published": "2018-01-28T16:47:42Z",
+          "primary_category": "math.GM"
+        },
+        {
+          "id": "1806.11363v3",
+          "abs_url": "https://arxiv.org/abs/1806.11363v3",
+          "pdf_url": "https://arxiv.org/pdf/1806.11363v3",
+          "title": "Towards a Canonical Divergence within Information Geometry",
+          "authors": [
+            "Domenico Felice",
+            "Nihat Ay"
+          ],
+          "published": "2018-06-29T11:37:10Z",
+          "primary_category": "math.DG"
+        },
+        {
+          "id": "1906.10184v1",
+          "abs_url": "https://arxiv.org/abs/1906.10184v1",
+          "pdf_url": "https://arxiv.org/pdf/1906.10184v1",
+          "title": "A free energy principle for a particular physics",
+          "authors": [
+            "Karl Friston"
+          ],
+          "published": "2019-06-24T19:18:37Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "1908.02679v1",
+          "abs_url": "https://arxiv.org/abs/1908.02679v1",
+          "pdf_url": "https://arxiv.org/pdf/1908.02679v1",
+          "title": "Variational principles and thermodynamics",
+          "authors": [
+            "Péter Ván",
+            "Róbert Kovács"
+          ],
+          "published": "2019-08-07T15:23:06Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "1910.08850v3",
+          "abs_url": "https://arxiv.org/abs/1910.08850v3",
+          "pdf_url": "https://arxiv.org/pdf/1910.08850v3",
+          "title": "Hölder parameterization of iterated function systems and a self-affine phenomenon",
+          "authors": [
+            "Matthew Badger",
+            "Vyron Vellis"
+          ],
+          "published": "2019-10-19T21:51:49Z",
+          "primary_category": "math.MG"
+        },
+        {
+          "id": "1911.04578v1",
+          "abs_url": "https://arxiv.org/abs/1911.04578v1",
+          "pdf_url": "https://arxiv.org/pdf/1911.04578v1",
+          "title": "Chaotic attractors from border-collision bifurcations: stable border fixed points and determinant-based Lyapunov exponent bounds",
+          "authors": [
+            "D. J. W. Simpson"
+          ],
+          "published": "2019-11-11T21:46:49Z",
+          "primary_category": "math.DS"
+        },
+        {
+          "id": "1912.01208v1",
+          "abs_url": "https://arxiv.org/abs/1912.01208v1",
+          "pdf_url": "https://arxiv.org/pdf/1912.01208v1",
+          "title": "Properties of Conservation-dissipation Formalism of Irreversible Thermodynamics",
+          "authors": [
+            "Wen-An Yong"
+          ],
+          "published": "2019-12-03T06:01:25Z",
+          "primary_category": "math-ph"
+        },
+        {
+          "id": "2002.04501v1",
+          "abs_url": "https://arxiv.org/abs/2002.04501v1",
+          "pdf_url": "https://arxiv.org/pdf/2002.04501v1",
+          "title": "Some interesting observations on the free energy principle",
+          "authors": [
+            "Karl Friston",
+            "Lancelot Da Costa",
+            "Thomas Parr"
+          ],
+          "published": "2020-02-05T13:40:48Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2006.11720v4",
+          "abs_url": "https://arxiv.org/abs/2006.11720v4",
+          "pdf_url": "https://arxiv.org/pdf/2006.11720v4",
+          "title": "On functor-quotients and their isomorphism theorems",
+          "authors": [
+            "Jordan Mitchell Barrett",
+            "Valentino Vito"
+          ],
+          "published": "2020-06-21T05:59:36Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "2012.10153v1",
+          "abs_url": "https://arxiv.org/abs/2012.10153v1",
+          "pdf_url": "https://arxiv.org/pdf/2012.10153v1",
+          "title": "A Distributed Simplex Architecture for Multi-Agent Systems",
+          "authors": [
+            "Usama Mehmood",
+            "Scott D. Stoller",
+            "Radu Grosu",
+            "Shouvik Roy",
+            "Amol Damare",
+            "Scott A. Smolka"
+          ],
+          "published": "2020-12-18T10:31:50Z",
+          "primary_category": "cs.MA"
+        },
+        {
+          "id": "2105.14385v2",
+          "abs_url": "https://arxiv.org/abs/2105.14385v2",
+          "pdf_url": "https://arxiv.org/pdf/2105.14385v2",
+          "title": "On Centralized and Distributed Mirror Descent: Convergence Analysis Using Quadratic Constraints",
+          "authors": [
+            "Youbang Sun",
+            "Mahyar Fazlyab",
+            "Shahin Shahrampour"
+          ],
+          "published": "2021-05-29T23:05:56Z",
+          "primary_category": "math.OC"
+        },
+        {
+          "id": "2107.01447v2",
+          "abs_url": "https://arxiv.org/abs/2107.01447v2",
+          "pdf_url": "https://arxiv.org/pdf/2107.01447v2",
+          "title": "Orderings of ultrafilters on Boolean algebras",
+          "authors": [
+            "Jörg Brendle",
+            "Francesco Parente"
+          ],
+          "published": "2021-07-03T14:41:34Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "2109.10018v1",
+          "abs_url": "https://arxiv.org/abs/2109.10018v1",
+          "pdf_url": "https://arxiv.org/pdf/2109.10018v1",
+          "title": "A temporal logic of epistemic and normative justifications, with an application to the Protagoras paradox",
+          "authors": [
+            "Meghdad Ghari"
+          ],
+          "published": "2021-09-21T08:10:14Z",
+          "primary_category": "cs.LO"
+        },
+        {
+          "id": "2203.02806v3",
+          "abs_url": "https://arxiv.org/abs/2203.02806v3",
+          "pdf_url": "https://arxiv.org/pdf/2203.02806v3",
+          "title": "Converging approximations of attractors via almost Lyapunov functions and semidefinite programming",
+          "authors": [
+            "Corbinian Schlosser"
+          ],
+          "published": "2022-03-05T19:16:49Z",
+          "primary_category": "math.OC"
+        },
+        {
+          "id": "2203.08525v2",
+          "abs_url": "https://arxiv.org/abs/2203.08525v2",
+          "pdf_url": "https://arxiv.org/pdf/2203.08525v2",
+          "title": "The Szymczak Functor on the Category of Finite Sets and Finite Relations",
+          "authors": [
+            "Mateusz Przybylski",
+            "Marian Mrozek",
+            "Jim Wiseman"
+          ],
+          "published": "2022-03-16T10:45:10Z",
+          "primary_category": "math.DS"
+        },
+        {
+          "id": "2205.01185v1",
+          "abs_url": "https://arxiv.org/abs/2205.01185v1",
+          "pdf_url": "https://arxiv.org/pdf/2205.01185v1",
+          "title": "Transition Phenomena for the Attractor of an Iterated Function System",
+          "authors": [
+            "Krzysztof Leśniak",
+            "Nina Snigireva",
+            "Filip Strobin",
+            "Andrew Vince"
+          ],
+          "published": "2022-05-02T20:01:49Z",
+          "primary_category": "math.DS"
+        },
+        {
+          "id": "2206.02356v1",
+          "abs_url": "https://arxiv.org/abs/2206.02356v1",
+          "pdf_url": "https://arxiv.org/pdf/2206.02356v1",
+          "title": "Large deviations principle for stationary solutions of stochastic differential equations with multiplicative noise",
+          "authors": [
+            "Peipei Gao",
+            "Yong Liu",
+            "Yue Sun",
+            "Zuohuan Zheng"
+          ],
+          "published": "2022-06-06T05:17:05Z",
+          "primary_category": "math.PR"
+        },
+        {
+          "id": "2306.11230v2",
+          "abs_url": "https://arxiv.org/abs/2306.11230v2",
+          "pdf_url": "https://arxiv.org/pdf/2306.11230v2",
+          "title": "Universal Landauer-Like Inequality from the First Law of Thermodynamics",
+          "authors": [
+            "Junjie Liu",
+            "Hanlin Nie"
+          ],
+          "published": "2023-06-20T01:36:04Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "2308.01003v1",
+          "abs_url": "https://arxiv.org/abs/2308.01003v1",
+          "pdf_url": "https://arxiv.org/pdf/2308.01003v1",
+          "title": "Fixed point theorem for mappings contracting perimeters of triangles",
+          "authors": [
+            "Evgeniy Petrov"
+          ],
+          "published": "2023-08-02T08:26:13Z",
+          "primary_category": "math.GN"
+        },
+        {
+          "id": "2406.02337v1",
+          "abs_url": "https://arxiv.org/abs/2406.02337v1",
+          "pdf_url": "https://arxiv.org/pdf/2406.02337v1",
+          "title": "Laplacian Renormalization Group: An introduction to heterogeneous coarse-graining",
+          "authors": [
+            "Guido Caldarelli",
+            "Andrea Gabrielli",
+            "Tommaso Gili",
+            "Pablo Villegas"
+          ],
+          "published": "2024-06-04T14:08:19Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "2409.07599v1",
+          "abs_url": "https://arxiv.org/abs/2409.07599v1",
+          "pdf_url": "https://arxiv.org/pdf/2409.07599v1",
+          "title": "Bridging Freidlin-Wentzell large deviations theory and stochastic thermodynamics",
+          "authors": [
+            "Davide Santolin",
+            "Nahuel Freitas",
+            "Massimiliano Esposito",
+            "Gianmaria Falasco"
+          ],
+          "published": "2024-09-11T20:12:10Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "2505.22681v1",
+          "abs_url": "https://arxiv.org/abs/2505.22681v1",
+          "pdf_url": "https://arxiv.org/pdf/2505.22681v1",
+          "title": "General contractions in new type perturbed metric spaces",
+          "authors": [
+            "Bekir Danış"
+          ],
+          "published": "2025-05-22T06:34:41Z",
+          "primary_category": "math.GM"
+        },
+        {
+          "id": "2506.10876v2",
+          "abs_url": "https://arxiv.org/abs/2506.10876v2",
+          "pdf_url": "https://arxiv.org/pdf/2506.10876v2",
+          "title": "Landauer Principle and Thermodynamics of Computation",
+          "authors": [
+            "Pritam Chattopadhyay",
+            "Avijit Misra",
+            "Tanmoy Pandit",
+            "Goutam Paul"
+          ],
+          "published": "2025-06-12T16:43:28Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "2507.21022v1",
+          "abs_url": "https://arxiv.org/abs/2507.21022v1",
+          "pdf_url": "https://arxiv.org/pdf/2507.21022v1",
+          "title": "A Generalized Cramér-Rao Bound Using Information Geometry",
+          "authors": [
+            "Satyajit Dhadumia",
+            "M. Ashok Kumar"
+          ],
+          "published": "2025-07-28T17:43:06Z",
+          "primary_category": "math.ST"
+        },
+        {
+          "id": "2602.24221v1",
+          "abs_url": "https://arxiv.org/abs/2602.24221v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24221v1",
+          "title": "Renormalization-group perspective on spontaneous stochasticity",
+          "authors": [
+            "Alexei A. Mailybaev",
+            "Luca Moriconi"
+          ],
+          "published": "2026-02-27T17:47:44Z",
+          "primary_category": "nlin.CD"
+        },
+        {
+          "id": "2604.06117v2",
+          "abs_url": "https://arxiv.org/abs/2604.06117v2",
+          "pdf_url": "https://arxiv.org/pdf/2604.06117v2",
+          "title": "On Coexistence of Conservative Replicator Dynamics with Four Strategies",
+          "authors": [
+            "Haoyu Yin",
+            "Xudong Chen",
+            "Bruno Sinopoli"
+          ],
+          "published": "2026-04-07T17:26:25Z",
+          "primary_category": "math.DS"
+        },
+        {
+          "id": "2605.01009v1",
+          "abs_url": "https://arxiv.org/abs/2605.01009v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.01009v1",
+          "title": "Stability Theory for Local Iterated Function Systems",
+          "authors": [
+            "Elismar R. Oliveira",
+            "Paulo Varandas"
+          ],
+          "published": "2026-05-01T18:22:12Z",
+          "primary_category": "math.DS"
+        },
+        {
+          "id": "2605.05385v2",
+          "abs_url": "https://arxiv.org/abs/2605.05385v2",
+          "pdf_url": "https://arxiv.org/pdf/2605.05385v2",
+          "title": "Chapter 2: Geometry of the Fitness Surface and Trajectory Dynamics of Replicator Systems",
+          "authors": [
+            "A. S. Bratus",
+            "S. Drozhzhin",
+            "T. Yakushkina"
+          ],
+          "published": "2026-05-06T19:18:55Z",
+          "primary_category": "q-bio.PE"
+        },
+        {
+          "id": "2605.10552v1",
+          "abs_url": "https://arxiv.org/abs/2605.10552v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.10552v1",
+          "title": "Hausdorff Dimension of a Class of Self-Affine Sets",
+          "authors": [
+            "Amal P. S.",
+            "Vinod Kumar P. B.",
+            "Ramkumar P. B"
+          ],
+          "published": "2026-05-11T13:29:04Z",
+          "primary_category": "math.DS"
+        },
+        {
+          "id": "2609.18984v2",
+          "abs_url": "https://arxiv.org/abs/2609.18984v2",
+          "pdf_url": "https://arxiv.org/pdf/2609.18984v2",
+          "title": "Renormalization-Group Fixed Points Not Associated with Universality Classes",
+          "authors": [
+            "Ko Okumura"
+          ],
+          "published": "2026-08-17T09:43:17Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "2610.39850v1",
+          "abs_url": "https://arxiv.org/abs/2610.39850v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.39850v1",
+          "title": "The information geometry of the Sinkhorn divergence on a Hilbert manifold",
+          "authors": [
+            "Paul Navas"
+          ],
+          "published": "2026-10-29T11:30:41Z",
+          "primary_category": "math.ST"
+        },
+        {
+          "id": "2611.19916v1",
+          "abs_url": "https://arxiv.org/abs/2611.19916v1",
+          "pdf_url": "https://arxiv.org/pdf/2611.19916v1",
+          "title": "Basic introduction to Freidlin-Wentzell theory",
+          "authors": [
+            "Jiawei Yan"
+          ],
+          "published": "2026-11-15T10:09:15Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "math/0304457v1",
+          "abs_url": "https://arxiv.org/abs/math/0304457v1",
+          "pdf_url": "https://arxiv.org/pdf/math/0304457v1",
+          "title": "Bifurcations and strange attractors",
+          "authors": [
+            "Leonid Shilnikov"
+          ],
+          "published": "2003-04-28T19:44:55Z",
+          "primary_category": "math.DS"
+        },
+        {
+          "id": "nlin/0505017v2",
+          "abs_url": "https://arxiv.org/abs/nlin/0505017v2",
+          "pdf_url": "https://arxiv.org/pdf/nlin/0505017v2",
+          "title": "Computational Complexity as a Source of Thermodynamic Irreversibility",
+          "authors": [
+            "Edward D Weinberger"
+          ],
+          "published": "2005-05-07T10:40:43Z",
+          "primary_category": "nlin.CD"
+        }
+      ]
+    },
+    "Pillar_4": {
+      "count": 50,
+      "papers": [
+        {
+          "id": "0708.1362v2",
+          "abs_url": "https://arxiv.org/abs/0708.1362v2",
+          "pdf_url": "https://arxiv.org/pdf/0708.1362v2",
+          "title": "Physical limits of inference",
+          "authors": [
+            "David H. Wolpert"
+          ],
+          "published": "2007-08-10T03:19:38Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "0809.2754v2",
+          "abs_url": "https://arxiv.org/abs/0809.2754v2",
+          "pdf_url": "https://arxiv.org/pdf/0809.2754v2",
+          "title": "Algorithmic information theory",
+          "authors": [
+            "Peter D. Grunwald",
+            "Paul M. B. Vitanyi"
+          ],
+          "published": "2008-09-16T16:38:18Z",
+          "primary_category": "cs.IT"
+        },
+        {
+          "id": "0901.2903v2",
+          "abs_url": "https://arxiv.org/abs/0901.2903v2",
+          "pdf_url": "https://arxiv.org/pdf/0901.2903v2",
+          "title": "Entropy Measures vs. Algorithmic Information",
+          "authors": [
+            "Andreia Teixeira",
+            "Andre Souto",
+            "Armando Matos",
+            "Luis Antunes"
+          ],
+          "published": "2009-01-19T17:45:39Z",
+          "primary_category": "cs.IT"
+        },
+        {
+          "id": "1001.0236v3",
+          "abs_url": "https://arxiv.org/abs/1001.0236v3",
+          "pdf_url": "https://arxiv.org/pdf/1001.0236v3",
+          "title": "The Traveling Salesman Problem Under Squared Euclidean Distances",
+          "authors": [
+            "Mark de Berg",
+            "Fred van Nijnatten",
+            "René Sitters",
+            "Gerhard J. Woeginger",
+            "Alexander Wolff"
+          ],
+          "published": "2010-01-01T14:00:06Z",
+          "primary_category": "cs.CG"
+        },
+        {
+          "id": "1002.3721v7",
+          "abs_url": "https://arxiv.org/abs/1002.3721v7",
+          "pdf_url": "https://arxiv.org/pdf/1002.3721v7",
+          "title": "Remarks on the Cauchy functional equation and variations of it",
+          "authors": [
+            "Daniel Reem"
+          ],
+          "published": "2010-02-19T11:58:05Z",
+          "primary_category": "math.CA"
+        },
+        {
+          "id": "1005.2364v2",
+          "abs_url": "https://arxiv.org/abs/1005.2364v2",
+          "pdf_url": "https://arxiv.org/pdf/1005.2364v2",
+          "title": "A Short Introduction to Model Selection, Kolmogorov Complexity and Minimum Description Length (MDL)",
+          "authors": [
+            "Volker Nannen"
+          ],
+          "published": "2010-05-13T15:59:01Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "1011.6607v1",
+          "abs_url": "https://arxiv.org/abs/1011.6607v1",
+          "pdf_url": "https://arxiv.org/pdf/1011.6607v1",
+          "title": "Operator Aczel inequality",
+          "authors": [
+            "Mohammad Sal Moslehian"
+          ],
+          "published": "2010-11-30T16:55:19Z",
+          "primary_category": "math.FA"
+        },
+        {
+          "id": "1101.6081v2",
+          "abs_url": "https://arxiv.org/abs/1101.6081v2",
+          "pdf_url": "https://arxiv.org/pdf/1101.6081v2",
+          "title": "Projection Onto A Simplex",
+          "authors": [
+            "Yunmei Chen",
+            "Xiaojing Ye"
+          ],
+          "published": "2011-01-31T20:59:45Z",
+          "primary_category": "math.OC"
+        },
+        {
+          "id": "1206.1529v5",
+          "abs_url": "https://arxiv.org/abs/1206.1529v5",
+          "pdf_url": "https://arxiv.org/pdf/1206.1529v5",
+          "title": "Sparse projections onto the simplex",
+          "authors": [
+            "Anastasios Kyrillidis",
+            "Stephen Becker",
+            "Volkan Cevher and",
+            "Christoph Koch"
+          ],
+          "published": "2012-06-07T15:33:12Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "1306.0159v2",
+          "abs_url": "https://arxiv.org/abs/1306.0159v2",
+          "pdf_url": "https://arxiv.org/pdf/1306.0159v2",
+          "title": "The Ghost in the Quantum Turing Machine",
+          "authors": [
+            "Scott Aaronson"
+          ],
+          "published": "2013-06-02T00:36:34Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "1307.3988v5",
+          "abs_url": "https://arxiv.org/abs/1307.3988v5",
+          "pdf_url": "https://arxiv.org/pdf/1307.3988v5",
+          "title": "Multiplicative Cauchy functional equation on symmetric cones",
+          "authors": [
+            "Bartosz Kołodziejek"
+          ],
+          "published": "2013-07-15T15:22:48Z",
+          "primary_category": "math.CA"
+        },
+        {
+          "id": "1503.01002v1",
+          "abs_url": "https://arxiv.org/abs/1503.01002v1",
+          "pdf_url": "https://arxiv.org/pdf/1503.01002v1",
+          "title": "Projection onto the capped simplex",
+          "authors": [
+            "Weiran Wang",
+            "Canyi Lu"
+          ],
+          "published": "2015-03-03T16:40:17Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "1508.05319v4",
+          "abs_url": "https://arxiv.org/abs/1508.05319v4",
+          "pdf_url": "https://arxiv.org/pdf/1508.05319v4",
+          "title": "Extending Landauer's Bound from Bit Erasure to Arbitrary Computation",
+          "authors": [
+            "David H. Wolpert"
+          ],
+          "published": "2015-08-21T15:56:53Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "1508.05574v2",
+          "abs_url": "https://arxiv.org/abs/1508.05574v2",
+          "pdf_url": "https://arxiv.org/pdf/1508.05574v2",
+          "title": "Conglomerability and Finitely Additive Representations",
+          "authors": [
+            "Gianluca Cassese"
+          ],
+          "published": "2015-08-23T07:57:24Z",
+          "primary_category": "math.FA"
+        },
+        {
+          "id": "1611.05483v1",
+          "abs_url": "https://arxiv.org/abs/1611.05483v1",
+          "pdf_url": "https://arxiv.org/pdf/1611.05483v1",
+          "title": "A Hybrid Quasi-Newton Projected-Gradient Method with Application to Lasso and Basis-Pursuit Denoise",
+          "authors": [
+            "Ewout van den Berg"
+          ],
+          "published": "2016-11-16T22:10:16Z",
+          "primary_category": "math.OC"
+        },
+        {
+          "id": "1707.05712v3",
+          "abs_url": "https://arxiv.org/abs/1707.05712v3",
+          "pdf_url": "https://arxiv.org/pdf/1707.05712v3",
+          "title": "PAC-Bayes and Domain Adaptation",
+          "authors": [
+            "Pascal Germain",
+            "Amaury Habrard",
+            "François Laviolette",
+            "Emilie Morvant"
+          ],
+          "published": "2017-07-17T11:34:53Z",
+          "primary_category": "stat.ML"
+        },
+        {
+          "id": "1708.03030v1",
+          "abs_url": "https://arxiv.org/abs/1708.03030v1",
+          "pdf_url": "https://arxiv.org/pdf/1708.03030v1",
+          "title": "Above and Beyond the Landauer Bound: Thermodynamics of Modularity",
+          "authors": [
+            "Alexander B. Boyd",
+            "Dibyendu Mandal",
+            "James P. Crutchfield"
+          ],
+          "published": "2017-08-09T22:57:19Z",
+          "primary_category": "cond-mat.stat-mech"
+        },
+        {
+          "id": "1709.01415v2",
+          "abs_url": "https://arxiv.org/abs/1709.01415v2",
+          "pdf_url": "https://arxiv.org/pdf/1709.01415v2",
+          "title": "A fractal shape optimization problem in branched transport",
+          "authors": [
+            "Paul Pegon",
+            "Filippo Santambrogio",
+            "Qinglan Xia"
+          ],
+          "published": "2017-09-05T14:29:27Z",
+          "primary_category": "math.OC"
+        },
+        {
+          "id": "1809.00652v2",
+          "abs_url": "https://arxiv.org/abs/1809.00652v2",
+          "pdf_url": "https://arxiv.org/pdf/1809.00652v2",
+          "title": "Minimum Description Length codes are critical",
+          "authors": [
+            "Ryan John Cubero",
+            "Matteo Marsili",
+            "Yasser Roudi"
+          ],
+          "published": "2018-09-03T16:44:37Z",
+          "primary_category": "stat.ME"
+        },
+        {
+          "id": "1812.02743v1",
+          "abs_url": "https://arxiv.org/abs/1812.02743v1",
+          "pdf_url": "https://arxiv.org/pdf/1812.02743v1",
+          "title": "Optimization on fractal sets",
+          "authors": [
+            "Nizar Riane",
+            "Claire David"
+          ],
+          "published": "2018-12-07T18:00:15Z",
+          "primary_category": "math.MG"
+        },
+        {
+          "id": "1901.10327v1",
+          "abs_url": "https://arxiv.org/abs/1901.10327v1",
+          "pdf_url": "https://arxiv.org/pdf/1901.10327v1",
+          "title": "Physical Foundations of Landauer's Principle",
+          "authors": [
+            "Michael P. Frank"
+          ],
+          "published": "2019-01-26T18:52:15Z",
+          "primary_category": "cs.ET"
+        },
+        {
+          "id": "1905.12751v2",
+          "abs_url": "https://arxiv.org/abs/1905.12751v2",
+          "pdf_url": "https://arxiv.org/pdf/1905.12751v2",
+          "title": "Gleason-type Theorems from Cauchy's Functional Equation",
+          "authors": [
+            "Victoria J Wright",
+            "Stefan Weigert"
+          ],
+          "published": "2019-05-29T22:09:27Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "1905.13367v2",
+          "abs_url": "https://arxiv.org/abs/1905.13367v2",
+          "pdf_url": "https://arxiv.org/pdf/1905.13367v2",
+          "title": "PAC-Bayes Un-Expected Bernstein Inequality",
+          "authors": [
+            "Zakaria Mhammedi",
+            "Peter D. Grunwald",
+            "Benjamin Guedj"
+          ],
+          "published": "2019-05-31T01:02:26Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "1908.08484v2",
+          "abs_url": "https://arxiv.org/abs/1908.08484v2",
+          "pdf_url": "https://arxiv.org/pdf/1908.08484v2",
+          "title": "Minimum Description Length Revisited",
+          "authors": [
+            "Peter Grünwald",
+            "Teemu Roos"
+          ],
+          "published": "2019-08-21T11:42:56Z",
+          "primary_category": "stat.ME"
+        },
+        {
+          "id": "2001.10919v3",
+          "abs_url": "https://arxiv.org/abs/2001.10919v3",
+          "pdf_url": "https://arxiv.org/pdf/2001.10919v3",
+          "title": "Extending Chaitin's Incompleteness Theorem",
+          "authors": [
+            "Samuel Epstein"
+          ],
+          "published": "2020-01-29T16:06:35Z",
+          "primary_category": "cs.CC"
+        },
+        {
+          "id": "2006.10189v4",
+          "abs_url": "https://arxiv.org/abs/2006.10189v4",
+          "pdf_url": "https://arxiv.org/pdf/2006.10189v4",
+          "title": "Revisiting minimum description length complexity in overparameterized models",
+          "authors": [
+            "Raaz Dwivedi",
+            "Chandan Singh",
+            "Bin Yu",
+            "Martin J. Wainwright"
+          ],
+          "published": "2020-06-17T22:45:14Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2006.13508v3",
+          "abs_url": "https://arxiv.org/abs/2006.13508v3",
+          "pdf_url": "https://arxiv.org/pdf/2006.13508v3",
+          "title": "A Limitation of the PAC-Bayes Framework",
+          "authors": [
+            "Roi Livni",
+            "Shay Moran"
+          ],
+          "published": "2020-06-24T06:36:00Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2302.07263v1",
+          "abs_url": "https://arxiv.org/abs/2302.07263v1",
+          "pdf_url": "https://arxiv.org/pdf/2302.07263v1",
+          "title": "Interpolation Learning With Minimum Description Length",
+          "authors": [
+            "Naren Sarayu Manoj",
+            "Nathan Srebro"
+          ],
+          "published": "2023-02-14T18:58:11Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2302.08619v1",
+          "abs_url": "https://arxiv.org/abs/2302.08619v1",
+          "pdf_url": "https://arxiv.org/pdf/2302.08619v1",
+          "title": "A proof of Gödel's incompleteness theorems using Chaitin's incompleteness theorem",
+          "authors": [
+            "David O. Zisselman"
+          ],
+          "published": "2023-02-16T23:04:50Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "2305.17493v3",
+          "abs_url": "https://arxiv.org/abs/2305.17493v3",
+          "pdf_url": "https://arxiv.org/pdf/2305.17493v3",
+          "title": "The Curse of Recursion: Training on Generated Data Makes Models Forget",
+          "authors": [
+            "Ilia Shumailov",
+            "Zakhar Shumaylov",
+            "Yiren Zhao",
+            "Yarin Gal",
+            "Nicolas Papernot",
+            "Ross Anderson"
+          ],
+          "published": "2023-05-27T15:10:41Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2308.10657v1",
+          "abs_url": "https://arxiv.org/abs/2308.10657v1",
+          "pdf_url": "https://arxiv.org/pdf/2308.10657v1",
+          "title": "Parameterized Complexity of Fair Bisection: FPT-Approximation meets Unbreakability",
+          "authors": [
+            "Tanmay Inamdar",
+            "Daniel Lokshtanov",
+            "Saket Saurabh",
+            "Vaishali Surianarayanan"
+          ],
+          "published": "2023-08-21T11:49:56Z",
+          "primary_category": "cs.DS"
+        },
+        {
+          "id": "2310.15418v1",
+          "abs_url": "https://arxiv.org/abs/2310.15418v1",
+          "pdf_url": "https://arxiv.org/pdf/2310.15418v1",
+          "title": "Fractal Landscapes in Policy Optimization",
+          "authors": [
+            "Tao Wang",
+            "Sylvia Herbert",
+            "Sicun Gao"
+          ],
+          "published": "2023-10-24T00:22:19Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2402.09201v2",
+          "abs_url": "https://arxiv.org/abs/2402.09201v2",
+          "pdf_url": "https://arxiv.org/pdf/2402.09201v2",
+          "title": "Better-than-KL PAC-Bayes Bounds",
+          "authors": [
+            "Ilja Kuzborskij",
+            "Kwang-Sung Jun",
+            "Yulian Wu",
+            "Kyoungseok Jang",
+            "Francesco Orabona"
+          ],
+          "published": "2024-02-14T14:33:39Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2404.01413v2",
+          "abs_url": "https://arxiv.org/abs/2404.01413v2",
+          "pdf_url": "https://arxiv.org/pdf/2404.01413v2",
+          "title": "Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data",
+          "authors": [
+            "Matthias Gerstgrasser",
+            "Rylan Schaeffer",
+            "Apratim Dey",
+            "Rafael Rafailov",
+            "Henry Sleight",
+            "John Hughes",
+            "Tomasz Korbak",
+            "Rajashree Agrawal",
+            "Dhruv Pai",
+            "Andrey Gromov",
+            "Daniel A. Roberts",
+            "Diyi Yang",
+            "David L. Donoho",
+            "Sanmi Koyejo"
+          ],
+          "published": "2024-04-01T18:31:24Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2502.16723v1",
+          "abs_url": "https://arxiv.org/abs/2502.16723v1",
+          "pdf_url": "https://arxiv.org/pdf/2502.16723v1",
+          "title": "A Parameterized Complexity Analysis of Bounded Height Depth-first Search Trees",
+          "authors": [
+            "Lars Jaffke",
+            "Paloma T. de Lima",
+            "Wojciech Nadara",
+            "Emmanuel Sam"
+          ],
+          "published": "2025-02-23T21:30:42Z",
+          "primary_category": "cs.DS"
+        },
+        {
+          "id": "2504.18568v1",
+          "abs_url": "https://arxiv.org/abs/2504.18568v1",
+          "pdf_url": "https://arxiv.org/pdf/2504.18568v1",
+          "title": "Lecture Notes on Algorithmic Information Theory",
+          "authors": [
+            "Charles Alexandre Bédard"
+          ],
+          "published": "2025-04-22T02:46:33Z",
+          "primary_category": "cs.IT"
+        },
+        {
+          "id": "2506.10876v2",
+          "abs_url": "https://arxiv.org/abs/2506.10876v2",
+          "pdf_url": "https://arxiv.org/pdf/2506.10876v2",
+          "title": "Landauer Principle and Thermodynamics of Computation",
+          "authors": [
+            "Pritam Chattopadhyay",
+            "Avijit Misra",
+            "Tanmoy Pandit",
+            "Goutam Paul"
+          ],
+          "published": "2025-06-12T16:43:28Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "2506.21830v1",
+          "abs_url": "https://arxiv.org/abs/2506.21830v1",
+          "pdf_url": "https://arxiv.org/pdf/2506.21830v1",
+          "title": "Optimizing Mixed Quantum Channels via Projected Gradient Dynamics",
+          "authors": [
+            "Matthew M. Lin",
+            "Bing-Ze Lu"
+          ],
+          "published": "2025-06-27T00:38:45Z",
+          "primary_category": "math.NA"
+        },
+        {
+          "id": "2507.21988v1",
+          "abs_url": "https://arxiv.org/abs/2507.21988v1",
+          "pdf_url": "https://arxiv.org/pdf/2507.21988v1",
+          "title": "Properties of Algorithmic Information Distance",
+          "authors": [
+            "Marcus Hutter"
+          ],
+          "published": "2025-07-29T16:39:44Z",
+          "primary_category": "cs.IT"
+        },
+        {
+          "id": "2606.12462v1",
+          "abs_url": "https://arxiv.org/abs/2606.12462v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.12462v1",
+          "title": "Auto formalisation of Chaitin and of the surprise incompleteness Theorem",
+          "authors": [
+            "Thierry Coquand"
+          ],
+          "published": "2026-06-09T05:35:01Z",
+          "primary_category": "cs.LO"
+        },
+        {
+          "id": "2609.18878v1",
+          "abs_url": "https://arxiv.org/abs/2609.18878v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.18878v1",
+          "title": "Preventing Model Collapse: A Fisher-Rao Perspective on the Dynamics of Training with Synthetic Data",
+          "authors": [
+            "Matteo Marchi",
+            "João Pedro Silvestre",
+            "Bahman Gharesifard",
+            "Paulo Tabuada"
+          ],
+          "published": "2026-09-16T16:14:02Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2610.16560v1",
+          "abs_url": "https://arxiv.org/abs/2610.16560v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.16560v1",
+          "title": "Optimal Transport PAC-Bayes Bounds",
+          "authors": [
+            "Armin Beck",
+            "Peter Ochs",
+            "Jalal Fadili"
+          ],
+          "published": "2026-10-12T10:40:23Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "chao-dyn/9609008v1",
+          "abs_url": "https://arxiv.org/abs/chao-dyn/9609008v1",
+          "pdf_url": "https://arxiv.org/pdf/chao-dyn/9609008v1",
+          "title": "An Invitation to Algorithmic Information Theory",
+          "authors": [
+            "G. J. Chaitin"
+          ],
+          "published": "1996-09-17T17:21:43Z",
+          "primary_category": "nlin.CD"
+        },
+        {
+          "id": "cs/0001013v3",
+          "abs_url": "https://arxiv.org/abs/cs/0001013v3",
+          "pdf_url": "https://arxiv.org/pdf/cs/0001013v3",
+          "title": "Query Complexity: Worst-Case Quantum Versus Average-Case Classical",
+          "authors": [
+            "Scott Aaronson"
+          ],
+          "published": "2000-01-19T17:32:35Z",
+          "primary_category": "cs.CC"
+        },
+        {
+          "id": "cs/9901014v1",
+          "abs_url": "https://arxiv.org/abs/cs/9901014v1",
+          "pdf_url": "https://arxiv.org/pdf/cs/9901014v1",
+          "title": "Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity",
+          "authors": [
+            "Paul Vitanyi",
+            "Ming Li"
+          ],
+          "published": "1999-01-27T17:48:14Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "physics/0005058v1",
+          "abs_url": "https://arxiv.org/abs/physics/0005058v1",
+          "pdf_url": "https://arxiv.org/pdf/physics/0005058v1",
+          "title": "On the computational capabilities of physical systems part I: the impossibility of infallible computation",
+          "authors": [
+            "David H. Wolpert"
+          ],
+          "published": "2000-05-23T00:51:11Z",
+          "primary_category": "physics.comp-ph"
+        },
+        {
+          "id": "physics/0210005v2",
+          "abs_url": "https://arxiv.org/abs/physics/0210005v2",
+          "pdf_url": "https://arxiv.org/pdf/physics/0210005v2",
+          "title": "Notes on Landauer's principle, Reversible Computation and Maxwell's Demon",
+          "authors": [
+            "Charles H. Bennett"
+          ],
+          "published": "2002-10-01T19:54:20Z",
+          "primary_category": "physics.class-ph"
+        },
+        {
+          "id": "quant-ph/0402197v6",
+          "abs_url": "https://arxiv.org/abs/quant-ph/0402197v6",
+          "pdf_url": "https://arxiv.org/pdf/quant-ph/0402197v6",
+          "title": "From Heisenberg to Goedel via Chaitin",
+          "authors": [
+            "C. S. Calude",
+            "M. A. Stay"
+          ],
+          "published": "2004-02-26T00:05:01Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "quant-ph/0502072v2",
+          "abs_url": "https://arxiv.org/abs/quant-ph/0502072v2",
+          "pdf_url": "https://arxiv.org/pdf/quant-ph/0502072v2",
+          "title": "NP-complete Problems and Physical Reality",
+          "authors": [
+            "Scott Aaronson"
+          ],
+          "published": "2005-02-12T15:14:11Z",
+          "primary_category": "quant-ph"
+        },
+        {
+          "id": "quant-ph/0608142v3",
+          "abs_url": "https://arxiv.org/abs/quant-ph/0608142v3",
+          "pdf_url": "https://arxiv.org/pdf/quant-ph/0608142v3",
+          "title": "The Learnability of Quantum States",
+          "authors": [
+            "Scott Aaronson"
+          ],
+          "published": "2006-08-18T02:57:52Z",
+          "primary_category": "quant-ph"
+        }
+      ]
+    },
+    "Pillar_5": {
+      "count": 60,
+      "papers": [
+        {
+          "id": "1409.2207v2",
+          "abs_url": "https://arxiv.org/abs/1409.2207v2",
+          "pdf_url": "https://arxiv.org/pdf/1409.2207v2",
+          "title": "The Shifting Sands of Creative Thinking: Connections to Dual Process Theory",
+          "authors": [
+            "Paul Sowden",
+            "Andrew Pringle",
+            "Liane Gabora"
+          ],
+          "published": "2014-09-08T05:04:30Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "1704.01866v1",
+          "abs_url": "https://arxiv.org/abs/1704.01866v1",
+          "pdf_url": "https://arxiv.org/pdf/1704.01866v1",
+          "title": "Questions and dependency in intuitionistic logic",
+          "authors": [
+            "Ivano Ciardelli",
+            "Rosalie Iemhoff",
+            "Fan Yang"
+          ],
+          "published": "2017-04-06T14:41:55Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "1707.03354v2",
+          "abs_url": "https://arxiv.org/abs/1707.03354v2",
+          "pdf_url": "https://arxiv.org/pdf/1707.03354v2",
+          "title": "Computational Psychiatry in Borderline Personality Disorder",
+          "authors": [
+            "Sarah K Fineberg",
+            "Dylan Stahl",
+            "Philip Corlett"
+          ],
+          "published": "2017-07-11T16:33:42Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "1803.03483v2",
+          "abs_url": "https://arxiv.org/abs/1803.03483v2",
+          "pdf_url": "https://arxiv.org/pdf/1803.03483v2",
+          "title": "Inquisitive bisimulation",
+          "authors": [
+            "Ivano Ciardelli",
+            "Martin Otto"
+          ],
+          "published": "2018-03-09T12:10:53Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "1805.07733v3",
+          "abs_url": "https://arxiv.org/abs/1805.07733v3",
+          "pdf_url": "https://arxiv.org/pdf/1805.07733v3",
+          "title": "Learning Attentional Communication for Multi-Agent Cooperation",
+          "authors": [
+            "Jiechuan Jiang",
+            "Zongqing Lu"
+          ],
+          "published": "2018-05-20T08:45:50Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "1806.00201v1",
+          "abs_url": "https://arxiv.org/abs/1806.00201v1",
+          "pdf_url": "https://arxiv.org/pdf/1806.00201v1",
+          "title": "Being curious about the answers to questions: novelty search with learned attention",
+          "authors": [
+            "Nicholas Guttenberg",
+            "Martin Biehl",
+            "Nathaniel Virgo",
+            "Ryota Kanai"
+          ],
+          "published": "2018-06-01T05:32:47Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2002.01467v2",
+          "abs_url": "https://arxiv.org/abs/2002.01467v2",
+          "pdf_url": "https://arxiv.org/pdf/2002.01467v2",
+          "title": "Making Sense of Computational Psychiatry",
+          "authors": [
+            "LR Mujica-Parodi",
+            "HH Strey"
+          ],
+          "published": "2020-02-04T18:46:58Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2005.09439v2",
+          "abs_url": "https://arxiv.org/abs/2005.09439v2",
+          "pdf_url": "https://arxiv.org/pdf/2005.09439v2",
+          "title": "Functorial Language Games for Question Answering",
+          "authors": [
+            "Giovanni de Felice",
+            "Elena Di Lavore",
+            "Mario Román",
+            "Alexis Toumi"
+          ],
+          "published": "2020-05-19T13:35:13Z",
+          "primary_category": "cs.CL"
+        },
+        {
+          "id": "2009.13368v2",
+          "abs_url": "https://arxiv.org/abs/2009.13368v2",
+          "pdf_url": "https://arxiv.org/pdf/2009.13368v2",
+          "title": "Using Resource-Rational Analysis to Understand Cognitive Biases in Interactive Data Visualizations",
+          "authors": [
+            "Ryan Wesslen",
+            "Doug Markant",
+            "Alireza Karduni",
+            "Wenwen Dou"
+          ],
+          "published": "2020-09-28T14:35:58Z",
+          "primary_category": "cs.HC"
+        },
+        {
+          "id": "2012.10390v2",
+          "abs_url": "https://arxiv.org/abs/2012.10390v2",
+          "pdf_url": "https://arxiv.org/pdf/2012.10390v2",
+          "title": "Deep Learning and the Global Workspace Theory",
+          "authors": [
+            "Rufin VanRullen",
+            "Ryota Kanai"
+          ],
+          "published": "2020-12-04T11:36:01Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2109.00541v2",
+          "abs_url": "https://arxiv.org/abs/2109.00541v2",
+          "pdf_url": "https://arxiv.org/pdf/2109.00541v2",
+          "title": "Active Inference and Epistemic Value in Graphical Models",
+          "authors": [
+            "Thijs van de Laar",
+            "Magnus Koudahl",
+            "Bart van Erp",
+            "Bert de Vries"
+          ],
+          "published": "2021-09-01T16:43:35Z",
+          "primary_category": "stat.ML"
+        },
+        {
+          "id": "2112.12290v1",
+          "abs_url": "https://arxiv.org/abs/2112.12290v1",
+          "pdf_url": "https://arxiv.org/pdf/2112.12290v1",
+          "title": "Insula Interoception, Active Inference and Feeling Representation",
+          "authors": [
+            "Alan S. R. Fermin",
+            "Karl Friston",
+            "Shigeto Yamawaki"
+          ],
+          "published": "2021-12-23T00:51:40Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2201.11817v3",
+          "abs_url": "https://arxiv.org/abs/2201.11817v3",
+          "pdf_url": "https://arxiv.org/pdf/2201.11817v3",
+          "title": "Modeling Human Exploration Through Resource-Rational Reinforcement Learning",
+          "authors": [
+            "Marcel Binz",
+            "Eric Schulz"
+          ],
+          "published": "2022-01-27T21:49:52Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2210.16877v1",
+          "abs_url": "https://arxiv.org/abs/2210.16877v1",
+          "pdf_url": "https://arxiv.org/pdf/2210.16877v1",
+          "title": "On Rate-Distortion Theory in Capacity-Limited Cognition & Reinforcement Learning",
+          "authors": [
+            "Dilip Arumugam",
+            "Mark K. Ho",
+            "Noah D. Goodman",
+            "Benjamin Van Roy"
+          ],
+          "published": "2022-10-30T16:39:40Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2211.07036v3",
+          "abs_url": "https://arxiv.org/abs/2211.07036v3",
+          "pdf_url": "https://arxiv.org/pdf/2211.07036v3",
+          "title": "A Unified Theory of Dual-Process Control",
+          "authors": [
+            "Ted Moskovitz",
+            "Kevin Miller",
+            "Maneesh Sahani",
+            "Matthew M. Botvinick"
+          ],
+          "published": "2022-11-13T22:43:58Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2301.07016v3",
+          "abs_url": "https://arxiv.org/abs/2301.07016v3",
+          "pdf_url": "https://arxiv.org/pdf/2301.07016v3",
+          "title": "Consciousness is entailed by compositional learning of new causal structures in deep predictive processing systems",
+          "authors": [
+            "V. A. Aksyuk"
+          ],
+          "published": "2023-01-17T17:06:48Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2309.05999v2",
+          "abs_url": "https://arxiv.org/abs/2309.05999v2",
+          "pdf_url": "https://arxiv.org/pdf/2309.05999v2",
+          "title": "Life-inspired Interoceptive Artificial Intelligence for Autonomous and Adaptive Agents",
+          "authors": [
+            "Sungwoo Lee",
+            "Younghyun Oh",
+            "Hyunhoe An",
+            "Hyebhin Yoon",
+            "Karl J. Friston",
+            "Seok Jun Hong",
+            "Choong-Wan Woo"
+          ],
+          "published": "2023-09-12T06:56:46Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2310.01571v2",
+          "abs_url": "https://arxiv.org/abs/2310.01571v2",
+          "pdf_url": "https://arxiv.org/pdf/2310.01571v2",
+          "title": "Contraction Properties of the Global Workspace Primitive",
+          "authors": [
+            "Michaela Ennis",
+            "Leo Kozachkov",
+            "Jean-Jacques Slotine"
+          ],
+          "published": "2023-10-02T19:04:41Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2312.14573v3",
+          "abs_url": "https://arxiv.org/abs/2312.14573v3",
+          "pdf_url": "https://arxiv.org/pdf/2312.14573v3",
+          "title": "On the expressive power of inquisitive epistemic logic",
+          "authors": [
+            "Ivano Ciardelli",
+            "Martin Otto"
+          ],
+          "published": "2023-12-22T10:10:18Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "2402.12416v3",
+          "abs_url": "https://arxiv.org/abs/2402.12416v3",
+          "pdf_url": "https://arxiv.org/pdf/2402.12416v3",
+          "title": "Aligning Individual and Collective Objectives in Multi-Agent Cooperation",
+          "authors": [
+            "Yang Li",
+            "Wenhao Zhang",
+            "Jianhong Wang",
+            "Shao Zhang",
+            "Yali Du",
+            "Ying Wen",
+            "Wei Pan"
+          ],
+          "published": "2024-02-19T08:18:53Z",
+          "primary_category": "cs.MA"
+        },
+        {
+          "id": "2403.06750v1",
+          "abs_url": "https://arxiv.org/abs/2403.06750v1",
+          "pdf_url": "https://arxiv.org/pdf/2403.06750v1",
+          "title": "Generalising Multi-Agent Cooperation through Task-Agnostic Communication",
+          "authors": [
+            "Dulhan Jayalath",
+            "Steven Morad",
+            "Amanda Prorok"
+          ],
+          "published": "2024-03-11T14:20:13Z",
+          "primary_category": "cs.MA"
+        },
+        {
+          "id": "2403.14260v2",
+          "abs_url": "https://arxiv.org/abs/2403.14260v2",
+          "pdf_url": "https://arxiv.org/pdf/2403.14260v2",
+          "title": "Complexity of the Model Checking problem for inquisitive propositional and modal logic",
+          "authors": [
+            "Gianluca Grilletti",
+            "Ivano Ciardelli"
+          ],
+          "published": "2024-03-21T09:48:03Z",
+          "primary_category": "cs.LO"
+        },
+        {
+          "id": "2405.01148v1",
+          "abs_url": "https://arxiv.org/abs/2405.01148v1",
+          "pdf_url": "https://arxiv.org/pdf/2405.01148v1",
+          "title": "Qualia and the Formal Structure of Meaning",
+          "authors": [
+            "Xerxes D. Arsiwalla"
+          ],
+          "published": "2024-05-02T10:05:36Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2406.06143v3",
+          "abs_url": "https://arxiv.org/abs/2406.06143v3",
+          "pdf_url": "https://arxiv.org/pdf/2406.06143v3",
+          "title": "The Integrated Information Theory needs Attention",
+          "authors": [
+            "Azenet Lopez",
+            "Carlos Montemayor"
+          ],
+          "published": "2024-06-10T10:01:19Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2409.01368v1",
+          "abs_url": "https://arxiv.org/abs/2409.01368v1",
+          "pdf_url": "https://arxiv.org/pdf/2409.01368v1",
+          "title": "Quantum panprotopsychism and the structure and subject-summing combination problem",
+          "authors": [
+            "Rodolfo Gambini",
+            "Jorge Pullin"
+          ],
+          "published": "2024-09-02T16:47:57Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2409.20318v3",
+          "abs_url": "https://arxiv.org/abs/2409.20318v3",
+          "pdf_url": "https://arxiv.org/pdf/2409.20318v3",
+          "title": "A Rosetta Stone Hypothesis for Neurophenomenology: Mathematical Predictions from Predictive Processing",
+          "authors": [
+            "Lancelot Da Costa",
+            "Anil K. Seth",
+            "Karl Friston",
+            "Maxwell J. D. Ramstead",
+            "Lars Sandved-Smith"
+          ],
+          "published": "2024-09-30T14:20:23Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2410.06633v2",
+          "abs_url": "https://arxiv.org/abs/2410.06633v2",
+          "pdf_url": "https://arxiv.org/pdf/2410.06633v2",
+          "title": "On the Minimal Theory of Consciousness Implicit in Active Inference",
+          "authors": [
+            "Christopher J. Whyte",
+            "Andrew W. Corcoran",
+            "Jonathan Robinson",
+            "Ryan Smith",
+            "Rosalyn J. Moran",
+            "Thomas Parr",
+            "Karl J. Friston",
+            "Anil K. Seth",
+            "Jakob Hohwy"
+          ],
+          "published": "2024-10-09T07:26:49Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2411.04031v2",
+          "abs_url": "https://arxiv.org/abs/2411.04031v2",
+          "pdf_url": "https://arxiv.org/pdf/2411.04031v2",
+          "title": "Inquisitive Neighborhood Logic",
+          "authors": [
+            "Ivano Ciardelli"
+          ],
+          "published": "2024-11-06T16:29:49Z",
+          "primary_category": "math.LO"
+        },
+        {
+          "id": "2502.07591v2",
+          "abs_url": "https://arxiv.org/abs/2502.07591v2",
+          "pdf_url": "https://arxiv.org/pdf/2502.07591v2",
+          "title": "DMWM: Dual-Mind World Model with Long-Term Imagination",
+          "authors": [
+            "Lingyi Wang",
+            "Rashed Shelim",
+            "Walid Saad",
+            "Naren Ramakrishnan"
+          ],
+          "published": "2025-02-11T14:40:57Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2503.06049v1",
+          "abs_url": "https://arxiv.org/abs/2503.06049v1",
+          "pdf_url": "https://arxiv.org/pdf/2503.06049v1",
+          "title": "The Role of Affective States in Computational Psychiatry",
+          "authors": [
+            "David Benrimoh",
+            "Ryan Smith",
+            "Andreea O. Diaconescu",
+            "Timothy Friesen",
+            "Sara Jalali",
+            "Nace Mikus",
+            "Laura Gschwandtner",
+            "Jay Gandhi",
+            "Guillermo Horga",
+            "Albert Powers"
+          ],
+          "published": "2025-03-08T04:24:46Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2505.03856v1",
+          "abs_url": "https://arxiv.org/abs/2505.03856v1",
+          "pdf_url": "https://arxiv.org/pdf/2505.03856v1",
+          "title": "An Active Inference Model of Covert and Overt Visual Attention",
+          "authors": [
+            "Tin Mišić",
+            "Karlo Koledić",
+            "Fabio Bonsignorio",
+            "Ivan Petrović",
+            "Ivan Marković"
+          ],
+          "published": "2025-05-06T09:26:00Z",
+          "primary_category": "cs.CV"
+        },
+        {
+          "id": "2505.05483v1",
+          "abs_url": "https://arxiv.org/abs/2505.05483v1",
+          "pdf_url": "https://arxiv.org/pdf/2505.05483v1",
+          "title": "A Neuro-Dynamic Mathematical Model of Dream Formation and Spontaneous Cognitive Activity",
+          "authors": [
+            "Shirmohammad Tavangari",
+            "Sajjad Janfaza",
+            "Zahra Shakarami",
+            "Aref Yelghi"
+          ],
+          "published": "2025-04-25T06:50:55Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2506.01474v1",
+          "abs_url": "https://arxiv.org/abs/2506.01474v1",
+          "pdf_url": "https://arxiv.org/pdf/2506.01474v1",
+          "title": "Integrating Neural and Symbolic Components in a Model of Pragmatic Question-Answering",
+          "authors": [
+            "Polina Tsvilodub",
+            "Robert D. Hawkins",
+            "Michael Franke"
+          ],
+          "published": "2025-06-02T09:34:37Z",
+          "primary_category": "cs.CL"
+        },
+        {
+          "id": "2506.08599v4",
+          "abs_url": "https://arxiv.org/abs/2506.08599v4",
+          "pdf_url": "https://arxiv.org/pdf/2506.08599v4",
+          "title": "Geometric Hyperscanning of Affect under Active Inference",
+          "authors": [
+            "Nicolas Hinrichs",
+            "Mahault Albarracin",
+            "Dimitris Bolis",
+            "Yuyue Jiang",
+            "Leonardo Christov-Moore",
+            "Leonhard Schilbach"
+          ],
+          "published": "2025-06-10T09:06:28Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2506.19057v1",
+          "abs_url": "https://arxiv.org/abs/2506.19057v1",
+          "pdf_url": "https://arxiv.org/pdf/2506.19057v1",
+          "title": "How brains build higher order representations of uncertainty",
+          "authors": [
+            "Megan A. K. Peters",
+            "Hojjat Azimi Asrari"
+          ],
+          "published": "2025-06-23T19:16:52Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2508.00401v2",
+          "abs_url": "https://arxiv.org/abs/2508.00401v2",
+          "pdf_url": "https://arxiv.org/pdf/2508.00401v2",
+          "title": "Theory of Mind Using Active Inference: A Framework for Multi-Agent Cooperation",
+          "authors": [
+            "Riddhi J. Pitliya",
+            "Ozan Çatal",
+            "Toon Van de Maele",
+            "Corrado Pezzato",
+            "Tim Verbelen"
+          ],
+          "published": "2025-08-01T08:02:35Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2509.00555v3",
+          "abs_url": "https://arxiv.org/abs/2509.00555v3",
+          "pdf_url": "https://arxiv.org/pdf/2509.00555v3",
+          "title": "Integrated information and predictive processing theories of consciousness: An adversarial collaborative review",
+          "authors": [
+            "Andrew W. Corcoran",
+            "Andrew M. Haun",
+            "Reinder Dorman",
+            "Giulio Tononi",
+            "Karl J. Friston",
+            "Cyriel M. A. Pennartz",
+            " TWCF",
+            " :",
+            "INTREPID Consortium"
+          ],
+          "published": "2025-08-30T16:41:13Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2510.25998v4",
+          "abs_url": "https://arxiv.org/abs/2510.25998v4",
+          "pdf_url": "https://arxiv.org/pdf/2510.25998v4",
+          "title": "Integrated Information Theory: A Consciousness-First Approach to What Exists",
+          "authors": [
+            "Giulio Tononi",
+            "Melanie Boly"
+          ],
+          "published": "2025-10-29T22:22:35Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2601.08447v1",
+          "abs_url": "https://arxiv.org/abs/2601.08447v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.08447v1",
+          "title": "Sleep-Based Homeostatic Regularization for Stabilizing Spike-Timing-Dependent Plasticity in Recurrent Spiking Neural Networks",
+          "authors": [
+            "Andreas Massey",
+            "Aliaksandr Hubin",
+            "Stefano Nichele",
+            "Solve Sæbø"
+          ],
+          "published": "2026-01-13T11:17:30Z",
+          "primary_category": "cs.NE"
+        },
+        {
+          "id": "2601.08955v3",
+          "abs_url": "https://arxiv.org/abs/2601.08955v3",
+          "pdf_url": "https://arxiv.org/pdf/2601.08955v3",
+          "title": "Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models",
+          "authors": [
+            "Youwei Liu",
+            "Jian Wang",
+            "Hanlin Wang",
+            "Beichen Guo",
+            "Wenjie Li"
+          ],
+          "published": "2026-01-13T19:49:58Z",
+          "primary_category": "cs.CL"
+        },
+        {
+          "id": "2602.04095v1",
+          "abs_url": "https://arxiv.org/abs/2602.04095v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.04095v1",
+          "title": "A computational account of dreaming: learning and memory consolidation",
+          "authors": [
+            "Qi Zhang"
+          ],
+          "published": "2026-02-04T00:09:26Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2602.08236v3",
+          "abs_url": "https://arxiv.org/abs/2602.08236v3",
+          "pdf_url": "https://arxiv.org/pdf/2602.08236v3",
+          "title": "When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning",
+          "authors": [
+            "Shoubin Yu",
+            "Yue Zhang",
+            "Zun Wang",
+            "Jaehong Yoon",
+            "Huaxiu Yao",
+            "Mingyu Ding",
+            "Mohit Bansal"
+          ],
+          "published": "2026-02-09T03:21:48Z",
+          "primary_category": "cs.CV"
+        },
+        {
+          "id": "2603.01455v3",
+          "abs_url": "https://arxiv.org/abs/2603.01455v3",
+          "pdf_url": "https://arxiv.org/pdf/2603.01455v3",
+          "title": "From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents",
+          "authors": [
+            "Niu Lian",
+            "Yuting Wang",
+            "Hanshu Yao",
+            "Jinpeng Wang",
+            "Bin Chen",
+            "Yaowei Wang",
+            "Min Zhang",
+            "Shu-Tao Xia"
+          ],
+          "published": "2026-03-02T05:12:45Z",
+          "primary_category": "cs.CV"
+        },
+        {
+          "id": "2603.07867v1",
+          "abs_url": "https://arxiv.org/abs/2603.07867v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.07867v1",
+          "title": "Slumbering to Precision: Enhancing Artificial Neural Network Calibration Through Sleep-like Processes",
+          "authors": [
+            "Jean Erik Delanois",
+            "Aditya Ahuja",
+            "Giri P. Krishnan",
+            "Maxim Bazhenov"
+          ],
+          "published": "2026-03-09T00:43:14Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2604.24527v1",
+          "abs_url": "https://arxiv.org/abs/2604.24527v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.24527v1",
+          "title": "Interoceptive machine framework: Toward interoception-inspired regulatory architectures in artificial intelligence",
+          "authors": [
+            "Diego Candia-Rivera"
+          ],
+          "published": "2026-04-27T14:28:09Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2605.09522v1",
+          "abs_url": "https://arxiv.org/abs/2605.09522v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.09522v1",
+          "title": "Emergent Communication for Co-constructed Emotion Between Embodied Agents via Collective Predictive Coding",
+          "authors": [
+            "Zehang Zhang",
+            "Nguyen Le Hoang",
+            "Tadahiro Taniguchi",
+            "Takato Horii"
+          ],
+          "published": "2026-05-10T13:14:50Z",
+          "primary_category": "cs.MA"
+        },
+        {
+          "id": "2606.00732v4",
+          "abs_url": "https://arxiv.org/abs/2606.00732v4",
+          "pdf_url": "https://arxiv.org/pdf/2606.00732v4",
+          "title": "SHARP: Sleep-based Hierarchical Accelerated Replay for Long Range Non-Stationary Temporal Pattern Recognition",
+          "authors": [
+            "Jayanta Dey",
+            "Shikhar Srivastava",
+            "Itamar Lerner",
+            "Christopher Kanan",
+            "Dhireesha Kudithipudi"
+          ],
+          "published": "2026-05-30T13:55:02Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2606.31866v1",
+          "abs_url": "https://arxiv.org/abs/2606.31866v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.31866v1",
+          "title": "Inquisitive Action Logic",
+          "authors": [
+            "Ivano Ciardelli"
+          ],
+          "published": "2026-06-30T15:55:16Z",
+          "primary_category": "cs.LO"
+        },
+        {
+          "id": "2606.31868v1",
+          "abs_url": "https://arxiv.org/abs/2606.31868v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.31868v1",
+          "title": "Labelled Sequents for Inquisitive First-Order Modal Logic",
+          "authors": [
+            "Ivano Ciardelli",
+            "Simone Conti"
+          ],
+          "published": "2026-06-30T15:55:32Z",
+          "primary_category": "cs.LO"
+        },
+        {
+          "id": "2607.16858v1",
+          "abs_url": "https://arxiv.org/abs/2607.16858v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16858v1",
+          "title": "Principled Direction-Free Intrinsic Motivation through Model-Free Epistemic Free-Energy Estimators",
+          "authors": [
+            "Alireza Furutanpey",
+            "Schahram Dustdar"
+          ],
+          "published": "2026-07-18T15:44:45Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2607.19518v1",
+          "abs_url": "https://arxiv.org/abs/2607.19518v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.19518v1",
+          "title": "Sophisticated Policies from Epistemic Priors",
+          "authors": [
+            "Wouter W. L. Nuijten",
+            "Bert de Vries"
+          ],
+          "published": "2026-07-21T19:05:52Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2607.20306v1",
+          "abs_url": "https://arxiv.org/abs/2607.20306v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.20306v1",
+          "title": "State-Dependent Observation Noise Reintroduces Epistemic Value in Linear-Gaussian Active Inference",
+          "authors": [
+            "Daniel Corva"
+          ],
+          "published": "2026-07-22T15:53:52Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2608.04232v1",
+          "abs_url": "https://arxiv.org/abs/2608.04232v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.04232v1",
+          "title": "Interoceptive Attention as Dynamic Homeostatic Prioritization in a Foraging Agent",
+          "authors": [
+            "St John Grimbly",
+            "Nicolas Kuske",
+            "Evert A. Boonstra",
+            "Bruce A. Bassett",
+            "Charel van Hoof",
+            "Rowan Hodson",
+            "Benjamin Rosman",
+            "Ryan Smith",
+            "Mark Solms",
+            "Jonathan P. Shock"
+          ],
+          "published": "2026-08-04T21:18:45Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2608.09512v2",
+          "abs_url": "https://arxiv.org/abs/2608.09512v2",
+          "pdf_url": "https://arxiv.org/pdf/2608.09512v2",
+          "title": "Renormalising Generative Models for Active Inference: Foundations, Derivations, and Verification",
+          "authors": [
+            "Karim Zaghw",
+            "Andrew Pashea",
+            "Marc Pritsch",
+            "Wouter Nuijten",
+            "Karl Friston",
+            "Lancelot Da Costa"
+          ],
+          "published": "2026-08-10T12:14:05Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2608.15926v1",
+          "abs_url": "https://arxiv.org/abs/2608.15926v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.15926v1",
+          "title": "A Control-Theoretic Formulation of Global Workspace Theory",
+          "authors": [
+            "Ryota Kanai"
+          ],
+          "published": "2026-08-16T20:39:20Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2609.34410v1",
+          "abs_url": "https://arxiv.org/abs/2609.34410v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.34410v1",
+          "title": "Mathematics for and by human cognition: A resource-rational search for bottlenecks in problem-solving",
+          "authors": [
+            "Sneha Aenugu"
+          ],
+          "published": "2026-09-28T06:25:00Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2610.18617v1",
+          "abs_url": "https://arxiv.org/abs/2610.18617v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.18617v1",
+          "title": "Two Routes to Interoceptive Prioritisation: Dissociating Likelihood Precision and Preference Reweighting in Active Inference",
+          "authors": [
+            "St John Grimbly",
+            "Nicolas Kuske",
+            "Evert A. Boonstra",
+            "Charel van Hoof",
+            "Rowan Hodson",
+            "Benjamin Rosman",
+            "Ryan Smith",
+            "Mark Solms",
+            "Jonathan P. Shock"
+          ],
+          "published": "2026-10-13T16:01:02Z",
+          "primary_category": "cs.AI"
+        },
+        {
+          "id": "2610.26350v1",
+          "abs_url": "https://arxiv.org/abs/2610.26350v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.26350v1",
+          "title": "Affective Valence as the Interoceptive Rate of Change of Jacobian Scale",
+          "authors": [
+            "David Balduzzi"
+          ],
+          "published": "2026-10-19T13:14:19Z",
+          "primary_category": "q-bio.NC"
+        },
+        {
+          "id": "2611.14955v1",
+          "abs_url": "https://arxiv.org/abs/2611.14955v1",
+          "pdf_url": "https://arxiv.org/pdf/2611.14955v1",
+          "title": "The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals",
+          "authors": [
+            "Jaerock Kwon",
+            "Elahe Delavari",
+            "Donghyun Kim",
+            "Haewoon Nam"
+          ],
+          "published": "2026-11-11T03:02:55Z",
+          "primary_category": "cs.RO"
+        },
+        {
+          "id": "cond-mat/0208590v3",
+          "abs_url": "https://arxiv.org/abs/cond-mat/0208590v3",
+          "pdf_url": "https://arxiv.org/pdf/cond-mat/0208590v3",
+          "title": "Dreams, endocannabinoids and itinerant dynamics in neural networks: re elaborating Crick-Mitchison unlearning hypothesis",
+          "authors": [
+            "Osame Kinouchi",
+            "Renato Rodrigues Kinouchi"
+          ],
+          "published": "2002-08-30T01:50:18Z",
+          "primary_category": "cond-mat.dis-nn"
+        }
+      ]
+    }
+  },
+  "total_unique_arxiv_papers": 203
+}
