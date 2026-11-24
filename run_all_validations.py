@@ -57,8 +57,8 @@ def generate_architecture_diagram():
     )
     ax.text(
         5.0, 9.86,
-        "Strict Directed Acyclic Hierarchy · Zero Forward References · Unified Five-Prime Basis",
-        ha="center", va="center", fontsize=9.2, style="italic", color=SLATE,
+        "Strict Directed Acyclic Hierarchy · Zero Forward References · Unified Five-Prime Basis · Epistemic Consilience (Phi_comp)",
+        ha="center", va="center", fontsize=8.8, style="italic", color=SLATE,
     )
 
     nodes = [
@@ -96,10 +96,10 @@ def generate_architecture_diagram():
         },
         {
             "y": 1.95, "h": 1.20, "fc": "#FEF3C7", "ec": "#B45309",
-            "title": "PILLAR 5 — Consciousness Operations as Prime Reductions (v4.0 · Cognition Domain)",
+            "title": "PILLAR 5 — Consciousness Operations as Prime Reductions (v4.1 · Cognition Domain)",
             "body": (
-                "Embodied Cognition & Knowledge-Density Acceleration: Qualia Termination Psi_Q, Intelligence Emergence & Bounded Sandboxes,\n"
-                "11 Non-Commuting Question Operators Q_omega (alpha_omega), Subjective Prime E_hat, Multi-Horizon W_caus, CoEx (W_e >= W_p), Thm 8.1"
+                "Embodied Cognition & Complete Understanding: Qualia Psi_Q, Intelligence Emergence & Sandboxes,\n"
+                "11 Question Operators Q_omega, Phi_comp (Def 3.2/Thm 3.5), E_hat, W_caus, Co-Op Consilience (Thm 7.5), Thm 8.1"
             ),
         },
     ]
@@ -167,6 +167,7 @@ def main():
         ROOT / "03_Actualization_Theory" / "validate_pillar3_actualization.py",
         ROOT / "04_Computational_Knowledge_Theory" / "validate_pillar4_ckt.py",
         ROOT / "05_Consciousness_Prime_Reductions" / "validate_pillar5_consciousness.py",
+        ROOT / "00_Consilience_Standard" / "validate_consilience_standard.py",
     ]
 
     for script in scripts:

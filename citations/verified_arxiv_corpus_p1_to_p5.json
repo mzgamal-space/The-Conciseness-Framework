@@ -1775,7 +1775,7 @@
       ]
     },
     "Pillar_5": {
-      "count": 60,
+      "count": 68,
       "papers": [
         {
           "id": "1409.2207v2",
@@ -2598,9 +2598,117 @@
           ],
           "published": "2002-08-30T01:50:18Z",
           "primary_category": "cond-mat.dis-nn"
+        },
+        {
+          "id": "2502.15573v1",
+          "abs_url": "https://arxiv.org/abs/2502.15573v1",
+          "pdf_url": "https://arxiv.org/pdf/2502.15573v1",
+          "title": "A Survey of QUD Models for Discourse Processing",
+          "authors": [
+            "Yingxue Fu"
+          ],
+          "published": "2025-02-13T07:04:08Z",
+          "primary_category": "cs.CL"
+        },
+        {
+          "id": "2310.14520v2",
+          "abs_url": "https://arxiv.org/abs/2310.14520v2",
+          "pdf_url": "https://arxiv.org/pdf/2310.14520v2",
+          "title": "QUDEVAL: The Evaluation of Questions Under Discussion Discourse Parsing",
+          "authors": [
+            "Yating Wu",
+            "Ritika Mangla",
+            "Greg Durrett",
+            "Junyi Jessy Li"
+          ],
+          "published": "2023-10-23T03:03:58Z",
+          "primary_category": "cs.CL"
+        },
+        {
+          "id": "2502.08080v2",
+          "abs_url": "https://arxiv.org/abs/2502.08080v2",
+          "pdf_url": "https://arxiv.org/pdf/2502.08080v2",
+          "title": "NLI under the Microscope: What Atomic Hypothesis Decomposition Reveals",
+          "authors": [
+            "Neha Srikanth",
+            "Rachel Rudinger"
+          ],
+          "published": "2025-02-12T02:54:12Z",
+          "primary_category": "cs.CL"
+        },
+        {
+          "id": "2608.28478v1",
+          "abs_url": "https://arxiv.org/abs/2608.28478v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.28478v1",
+          "title": "Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge",
+          "authors": [
+            "Zhuoshi Pan",
+            "Junru Lu",
+            "Yan Qian",
+            "H. Vicky Zhao",
+            "Di Yin",
+            "Xing Sun"
+          ],
+          "published": "2026-08-28T16:06:01Z",
+          "primary_category": "cs.CL"
+        },
+        {
+          "id": "2502.09949v2",
+          "abs_url": "https://arxiv.org/abs/2502.09949v2",
+          "pdf_url": "https://arxiv.org/pdf/2502.09949v2",
+          "title": "The Blind Men and the Elephant: Mapping Interdisciplinarity in Research on Decentralized Autonomous Organizations",
+          "authors": [
+            "Giorgia Sampò",
+            "Oliver Baumann",
+            "Marco Peressotti"
+          ],
+          "published": "2025-02-14T07:06:43Z",
+          "primary_category": "cs.DC"
+        },
+        {
+          "id": "2512.15011v3",
+          "abs_url": "https://arxiv.org/abs/2512.15011v3",
+          "pdf_url": "https://arxiv.org/pdf/2512.15011v3",
+          "title": "Epistemic diversity across language models mitigates knowledge collapse",
+          "authors": [
+            "Damian Hodel",
+            "Jevin D. West"
+          ],
+          "published": "2025-12-17T02:03:28Z",
+          "primary_category": "cs.LG"
+        },
+        {
+          "id": "2510.04226v7",
+          "abs_url": "https://arxiv.org/abs/2510.04226v7",
+          "pdf_url": "https://arxiv.org/pdf/2510.04226v7",
+          "title": "What and Whose Knowledge? Measuring Epistemic Diversity in Large Language Models",
+          "authors": [
+            "Dustin Wright",
+            "Sarah Masud",
+            "Jared Moore",
+            "Srishti Yadav",
+            "Maria Antoniak",
+            "Peter Ebert Christensen",
+            "Chan Young Park",
+            "Isabelle Augenstein"
+          ],
+          "published": "2025-10-05T14:29:15Z",
+          "primary_category": "cs.CL"
+        },
+        {
+          "id": "2607.29380v1",
+          "abs_url": "https://arxiv.org/abs/2607.29380v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.29380v1",
+          "title": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
+          "authors": [
+            "Nolan Lovett"
+          ],
+          "published": "2026-07-31T13:04:07Z",
+          "primary_category": "cs.CY",
+          "doi": "10.1177/15344843261470602"
         }
       ]
     }
   },
-  "total_unique_arxiv_papers": 203
+  "total_unique_arxiv_papers": 211
 }

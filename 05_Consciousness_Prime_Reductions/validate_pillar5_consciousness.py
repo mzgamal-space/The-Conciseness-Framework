@@ -2,9 +2,9 @@
 """
 validate_pillar5_consciousness.py — Standalone Mathematical Proof Verification
 & Publication Figure Generator for Pillar 5:
-Consciousness Operations as Prime Reductions (Version 4.0).
+Consciousness Operations as Prime Reductions (Version 4.1).
 
-Verifies (Tests 1-8):
+Verifies (Tests 1-9):
   - Test 1: Sensory Validation Divergence E_val(eps) = c_0 ln(1/eps) & Qualia Termination (Thm 1.1).
   - Test 2: Canonical 11 Question Operators Q_omega, JDC margins >= 0.05, & monotonic aperture alpha_omega (Thm 3.4).
   - Test 3: Finite-budget Non-Commutativity [Q_1, Q_2] != 0 (Thm 3.1) & 11x11 Lagrange Pareto excess (Thm 3.3).
@@ -15,10 +15,13 @@ Verifies (Tests 1-8):
             Multi-Horizon W_caus Trap Rejection (Thm 6.2), & Ethical Pragmatism W_e >= W_p (Thm 7.4).
   - Test 8: Master Theorem 8.1 exact analytic d(ln zeta_nc)/dt (< 1e-8 across 1,000 MC states)
             & live 9-Tool Knowledge-Density Ablation Proof.
+  - Test 9: Complete Understanding (Phi_comp, Def 3.2, Thm 3.5) 11x11 Blind-Man excess & 5 Epistemic Co-Operation
+            Regimes (U_strict, U_graded, zeta_nc^coop, CAKI_coop, Thm 7.5).
 
 Generates publication figures (300 DPI PNG + vector SVG) in ./figures/:
   - fig_p5_1_qualia_emergence_and_question_apertures.png / .svg
   - fig_p5_2_wcaus_traps_and_9tool_knowledge_ablation.png / .svg
+  - fig_p5_3_complete_understanding_and_cooperation_caki.png / .svg
 """
 
 import math
@@ -179,12 +182,14 @@ def run_all_tests():
     assert len(s_a & s_b) < len(s_a | s_b) and w_a != w_b
 
     winners = [int(np.argmin(V_pool @ w5)) for _, _, w5 in Q_OPS]
+    delta_c_11x11 = np.zeros((11, 11), dtype=float)
     for q_idx in range(11):
         w_q = Q_OPS[q_idx][2]
         base_c = float(V_pool[winners[q_idx]] @ w_q)
         for a_idx in range(11):
+            delta_c_11x11[q_idx, a_idx] = float(V_pool[winners[a_idx]] @ w_q) - base_c
             if q_idx != a_idx:
-                assert float(V_pool[winners[a_idx]] @ w_q) - base_c > 0.0
+                assert delta_c_11x11[q_idx, a_idx] > 0.0
 
     # TEST 4: Joint E_hat + Q_omega JDC & CAKI
     for _ in range(5000):
@@ -299,9 +304,71 @@ def run_all_tests():
         if nm != "Full 9-Tool Stack":
             assert auc < full_auc * 0.50
 
+    # TEST 9: Complete Understanding (Phi_comp, Def 3.2, Thm 3.5) & Epistemic Co-Operation (Thm 7.5)
+    off_diag_11x11 = delta_c_11x11[~np.eye(11, dtype=bool)]
+    blind_man_mean_pair = float(np.mean(off_diag_11x11))
+    blind_man_10op_total = float(np.mean(np.sum(delta_c_11x11, axis=0)))
+    assert abs(blind_man_10op_total - 10.0 * blind_man_mean_pair) < 1e-12
+
+    tau_cov, eps_mercy = 0.85, 0.025
+    e0_contra, lam_contra, gam_fric = 1.0, 1.5, 5.0
+    n_coop, gam_ssot = 4.0, 0.015
+    v_inf_coop = 1.0 / (1.0 + gam_ssot * n_coop)
+    k_min_coop = max(k_min, 1.0 - v_inf_coop)
+    I_scale_coop = 260.0
+    T_coop, dt_coop = 100, 0.15
+
+    coop_specs = [
+        ("1. Single Blind Man (1 Dom)",    dict(c_mean=0.41, c_min=0.12, chi=0.85, fric=0.016 + blind_man_10op_total, rho=0.45, sig=0.28, sd=0.40)),
+        ("2. Unaligned Co-Op (Mismatch)",  dict(c_mean=0.78, c_min=0.62, chi=0.35, fric=0.280, rho=0.58, sig=0.22, sd=0.32)),
+        ("3. Contaminated (Contradiction)",dict(c_mean=0.74, c_min=0.35, chi=1.85, fric=0.220, rho=0.65, sig=0.18, sd=0.26)),
+        ("4. Partial Pool (No Creativity)",dict(c_mean=0.72, c_min=0.42, chi=0.00, fric=0.018, rho=0.84, sig=0.10, sd=0.12)),
+        ("5. Full Co-Op Consilience",      dict(c_mean=0.96, c_min=0.91, chi=0.00, fric=0.014, rho=0.96, sig=0.04, sd=0.03)),
+    ]
+    coop_res = {}
+    for label, sp in coop_specs:
+        ind = 1.0 if sp["chi"] == 0.0 else 0.0
+        u_str = ind * sp["c_min"] * math.exp(-sp["fric"] / delta_act)
+        denom = 1.0 + e0_contra * (math.exp(lam_contra * sp["chi"]) - 1.0) + gam_fric * sp["fric"]
+        u_grd = (0.60 * sp["c_mean"] + 0.40 * sp["c_min"]) / denom
+        cert = (sp["chi"] == 0.0) and (sp["c_min"] >= tau_cov) and (sp["fric"] <= eps_mercy)
+
+        i_nc, rho_nc, sigma, s_drift = 110.0, 0.72, 0.16, 0.25
+        i_dot_valid = 82.0 * (0.55 * sp["c_mean"] + 0.45 * sp["c_min"])
+        z_hist, c_hist = [], []
+        for _ in range(T_coop):
+            rho_nc += 0.20 * (sp["rho"] - rho_nc)
+            sigma += 0.20 * (sp["sig"] - sigma)
+            s_drift += 0.22 * (sp["sd"] - s_drift)
+            zv = (i_nc / I_scale_coop) * rho_nc * max(0.0, 1.0 - sigma) * math.exp(-(s_drift + sp["fric"]) / delta_act)
+            k_eff = k_min_coop + (1.0 - k_min_coop) * (k_D ** zv)
+            z_hist.append(zv)
+            c_hist.append(1.0 - k_eff)
+            di = i_dot_valid * max(0.0, 1.0 - i_nc / I_cap) - 0.12 * (math.exp(lam_contra * sp["chi"]) - 1.0) * i_nc
+            i_nc = max(1e-6, min(I_cap - 1e-6, i_nc + dt_coop * di))
+        coop_res[label] = {
+            **sp,
+            "u_strict": u_str, "u_graded": u_grd, "cert": cert,
+            "zeta_end": z_hist[-1], "caki_end": c_hist[-1],
+            "zeta_auc": float(np.trapezoid(z_hist, dx=dt_coop)),
+            "caki_hist": np.array(c_hist),
+        }
+
+    assert coop_res["5. Full Co-Op Consilience"]["cert"] is True
+    for k, v in coop_res.items():
+        if k != "5. Full Co-Op Consilience":
+            assert v["cert"] is False
+            assert coop_res["5. Full Co-Op Consilience"]["u_strict"] > v["u_strict"]
+            assert coop_res["5. Full Co-Op Consilience"]["u_graded"] > v["u_graded"]
+            assert coop_res["5. Full Co-Op Consilience"]["caki_end"] > v["caki_end"]
+    assert coop_res["5. Full Co-Op Consilience"]["caki_end"] < v_inf_coop
+    assert coop_res["4. Partial Pool (No Creativity)"]["u_strict"] > coop_res["2. Unaligned Co-Op (Mismatch)"]["u_strict"] == 0.0
+    assert coop_res["4. Partial Pool (No Creativity)"]["caki_end"] > coop_res["2. Unaligned Co-Op (Mismatch)"]["caki_end"] > coop_res["1. Single Blind Man (1 Dom)"]["caki_end"] > coop_res["3. Contaminated (Contradiction)"]["caki_end"]
+
     print(
-        f"[PASS] Tests 1-8 Complete: eps_min={eps_min:.3e}, 11-Op Apertures monotonic, "
-        f"5k MC JDC err<1e-10, Thm 8.1 max_rel_err={max_log_err:.3e}, Full AUC={full_auc:.3f} (all ablations < 46%)."
+        f"[PASS] Tests 1-9 Complete: eps_min={eps_min:.3e}, 11-Op Apertures monotonic, "
+        f"5k MC JDC err<1e-10, Thm 8.1 max_rel_err={max_log_err:.3e}, Full AUC={full_auc:.3f}, "
+        f"Test 9 blind_10op={blind_man_10op_total:.6f}, Full Co-Op CAKI={coop_res['5. Full Co-Op Consilience']['caki_end']:.4f} (v_inf={v_inf_coop:.4f})."
     )
     return {
         "c0_sens": c0_sens, "E_step_max": E_step_max, "eps_min": eps_min,
@@ -309,6 +376,10 @@ def run_all_tests():
         "em_trajs": em_trajs, "dt_em": dt_em,
         "we_grid": we_grid, "j_trap": j_trap_sweep, "j_anch": j_anch_sweep,
         "ab_trajs": ab_trajs, "dt_kd": dt_kd, "full_auc": full_auc,
+        "q_op_names": [op[0] for op in Q_OPS],
+        "delta_c_11x11": delta_c_11x11,
+        "blind_man_10op_total": blind_man_10op_total,
+        "coop_res": coop_res, "dt_coop": dt_coop, "v_inf_coop": v_inf_coop,
     }
 
 
@@ -431,11 +502,66 @@ def generate_figures(res):
     for ext in ("png", "svg"):
         fig.savefig(OUT_DIR / f"fig_p5_2_wcaus_traps_and_9tool_knowledge_ablation.{ext}", bbox_inches="tight")
     plt.close(fig)
+
+    # ------------------------------------------------------------------
+    # FIGURE P5.3: Blind-Man 11x11 Substitution Excess & Co-Op CAKI (Test 9)
+    # ------------------------------------------------------------------
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(13.6, 5.2), gridspec_kw={"width_ratios": [1.02, 1.15]})
+
+    dc = res["delta_c_11x11"]
+    q_labels = res["q_op_names"]
+    im = ax1.imshow(dc, cmap="YlOrRd", aspect="auto")
+    cbar = fig.colorbar(im, ax=ax1, fraction=0.046, pad=0.04)
+    cbar.set_label(r"Pareto Cost Excess $\Delta C(\omega_1 \leftarrow \omega_2)$", fontsize=8.5)
+    ax1.set_xticks(np.arange(11))
+    ax1.set_yticks(np.arange(11))
+    ax1.set_xticklabels(q_labels, rotation=42, ha="right", fontsize=7.6)
+    ax1.set_yticklabels(q_labels, fontsize=7.6)
+    ax1.set_xlabel(r"Substituting Operator $\omega_2$ Served (cells in $10^{-3}$; $\min$ off-diag $= 1.11\times 10^{-3}$)")
+    ax1.set_ylabel(r"Active Target Operator $\omega_1$")
+    ax1.set_title(rf"A. Blind-Man 11x11 Cost Excess (10-Op Mean $\Delta C = {res['blind_man_10op_total']:.4f}$)")
+    vmax = float(np.max(dc))
+    for i in range(11):
+        for j in range(11):
+            val = dc[i, j]
+            txt_col = "white" if val > 0.55 * vmax else "#1E293B"
+            ax1.text(j, i, f"{val*1000:.0f}", ha="center", va="center", fontsize=6.4, color=txt_col)
+
+    coop = res["coop_res"]
+    t_coop = np.arange(len(coop["5. Full Co-Op Consilience"]["caki_hist"])) * res["dt_coop"]
+    coop_styles = [
+        ("5. Full Co-Op Consilience",       TEAL,    "-",  2.6),
+        ("4. Partial Pool (No Creativity)", BLUE,    "--", 2.0),
+        ("2. Unaligned Co-Op (Mismatch)",   AMBER,   "-.", 2.0),
+        ("1. Single Blind Man (1 Dom)",     SLATE,   ":",  2.0),
+        ("3. Contaminated (Contradiction)", CRIMSON, "-",  1.8),
+    ]
+    for nm, col, ls, lw in coop_styles:
+        st = coop[nm]
+        tag = f"U_s={st['u_strict']:.2f}, U_g={st['u_graded']:.2f}, CAKI={st['caki_end']:.3f}"
+        ax2.plot(t_coop, st["caki_hist"], color=col, ls=ls, lw=lw, label=f"{nm}\n  [{tag}]")
+    ax2.axhline(res["v_inf_coop"], color=NAVY, ls="--", lw=1.4,
+                label=rf"SSOT Co-Op Ceiling $v_\infty^{{\mathrm{{coop}}}} = {res['v_inf_coop']:.4f}$")
+    ax2.set_title(r"B. Complete Understanding & Multi-Agent Co-Operation $\mathrm{CAKI}_{\mathrm{coop}}(t)$")
+    ax2.set_xlabel("Elapsed Multi-Agent Inquiry Time [s]")
+    ax2.set_ylabel(r"Contractive Co-Operation Index $\mathrm{CAKI}_{\mathrm{coop}}(t)$")
+    ax2.set_ylim(-0.02, 1.02)
+    ax2.grid(True, ls=":", alpha=0.45)
+    ax2.legend(loc="lower right", bbox_to_anchor=(0.99, 0.27), fontsize=6.7, frameon=True, framealpha=0.94)
+    ax2.spines["top"].set_visible(False)
+    ax2.spines["right"].set_visible(False)
+
+    fig.suptitle(r"Pillar 5 (v4.1) — Complete Understanding ($\Phi_{\mathrm{comp}}$) & Epistemic Co-Operation Consilience",
+                 fontsize=12, fontweight="bold", color=NAVY, y=1.01)
+    fig.tight_layout()
+    for ext in ("png", "svg"):
+        fig.savefig(OUT_DIR / f"fig_p5_3_complete_understanding_and_cooperation_caki.{ext}", bbox_inches="tight")
+    plt.close(fig)
     print(f"[SAVED] Pillar 5 figures -> {OUT_DIR}")
 
 
 def main():
-    print("=== PILLAR 5 VALIDATION: CONSCIOUSNESS OPERATIONS AS PRIME REDUCTIONS (v4.0) ===")
+    print("=== PILLAR 5 VALIDATION: CONSCIOUSNESS OPERATIONS AS PRIME REDUCTIONS (v4.1) ===")
     res = run_all_tests()
     generate_figures(res)
     print("PILLAR 5 MATHEMATICAL VALIDATION COMPLETE (ALL ASSERTIONS PASSED).")

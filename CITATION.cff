@@ -17,10 +17,12 @@ abstract: >-
   epistemology and ontological curvature (Pillar 2: The Finite Infinity Framework,
   v2.0), universal dynamical selection calculus (Pillar 3: The Actualization Theory,
   v6.0), computational complexity and unsimulable reality (Pillar 4: The Computational
-  Knowledge Theory, v4.0), and embodied cognition and knowledge-density acceleration
-  (Pillar 5: Consciousness Operations as Prime Reductions, v4.0). Each pillar is
-  accompanied by standalone mathematical verification scripts and publication-grade
-  figures validating all analytical claims and numerical simulations.
+  Knowledge Theory, v4.0), embodied cognition, Complete Understanding (Phi_comp),
+  and knowledge-density acceleration (Pillar 5: Consciousness Operations as Prime
+  Reductions, v4.1), together with the cross-pillar Complete Understanding and
+  Epistemic Consilience Standard (v1.1). Each pillar is accompanied by standalone
+  mathematical verification scripts and publication-grade figures validating all
+  analytical claims and numerical simulations.
 keywords:
   - epistemology
   - modal-logic
@@ -32,6 +34,7 @@ keywords:
   - dynamical-systems
   - consciousness
   - knowledge-density
+  - epistemic-consilience
 license: CC-BY-4.0
-version: "2.3.0"
-date-released: "2026-11-23"
+version: "2.4.0"
+date-released: "2026-11-24"
